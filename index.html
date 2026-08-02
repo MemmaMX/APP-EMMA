@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>App EMMA</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f3f4f6; color: #111827; }
+  header { background: #1e3a8a; color: white; padding: 16px; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.15); }
+  header h1 { margin: 0; font-size: 1.5rem; }
+  header p { margin: 4px 0 0; font-size: 0.85rem; opacity: 0.9; }
+
+  .controls { background: white; padding: 14px; position: sticky; top: 0; z-index: 50; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+  .control-row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+  .control-row label { font-weight: 600; font-size: 0.9rem; }
+  .control-row select, .control-row input { padding: 8px 10px; font-size: 1rem; border: 1px solid #d1d5db; border-radius: 8px; }
+  .control-row input { flex: 1; min-width: 120px; }
+
+  .lang-buttons { display: flex; gap: 8px; flex-wrap: wrap; }
+  .lang-btn { flex: 1; min-width: 90px; padding: 10px; border: 2px solid #e5e7eb; background: white; border-radius: 10px; font-weight: 700; cursor: pointer; transition: all .15s; }
+  .lang-btn:hover { transform: translateY(-1px); }
+  .lang-btn.active { border-color: #1e3a8a; background: #eff6ff; color: #1e3a8a; }
+  .lang-btn.en { color: #1d4ed8; }
+  .lang-btn.es { color: #b91c1c; }
+  .lang-btn.fr { color: #1e40af; }
+  .lang-btn.de { color: #111827; }
+  .lang-btn.pt { color: #047857; }
+
+  main { max-width: 900px; margin: 0 auto; padding: 16px; padding-bottom: 80px; }
+
+  .section { background: white; border-radius: 12px; margin-bottom: 16px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+  .section-header { background: #f9fafb; padding: 14px 16px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #e5e7eb; }
+  .section-header h2 { margin: 0; font-size: 1rem; }
+  .section-header .chevron { transition: transform .2s; }
+  .section.open .chevron { transform: rotate(180deg); }
+  .section-body { display: none; padding: 12px; }
+  .section.open .section-body { display: block; }
+
+  .subsection-title { font-size: 0.9rem; color: #6b7280; margin: 16px 0 8px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px dashed #e5e7eb; padding-bottom: 4px; }
+  .subsection-title:first-child { margin-top: 0; }
+
+  .message { border: 1px solid #e5e7eb; border-radius: 10px; padding: 12px; margin-bottom: 10px; cursor: pointer; position: relative; transition: background .1s, border-color .1s; }
+  .message:hover { background: #f8fafc; border-color: #93c5fd; }
+  .message:active { background: #eff6ff; }
+  .message-text { font-size: 0.95rem; line-height: 1.5; }
+  .message-meta { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; }
+  .badge { font-size: 0.7rem; font-weight: 700; padding: 3px 8px; border-radius: 999px; text-transform: uppercase; }
+  .badge.en { background: #dbeafe; color: #1d4ed8; }
+  .badge.es { background: #fee2e2; color: #b91c1c; }
+  .badge.fr { background: #dbeafe; color: #1e40af; }
+  .badge.de { background: #e5e7eb; color: #111827; }
+  .badge.pt { background: #d1fae5; color: #047857; }
+  .copy-hint { font-size: 0.75rem; color: #9ca3af; }
+
+  .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%) translateY(100px); background: #111827; color: white; padding: 12px 20px; border-radius: 10px; font-size: 0.9rem; opacity: 0; transition: all .3s; z-index: 100; max-width: 90%; text-align: center; }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  .help { font-size: 0.8rem; color: #6b7280; margin: 10px 0 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🧑‍💼 APP EMMA</h1>
+  <p>Mensajes rápidos de Guest Service — Copia · Personaliza · Traduce</p>
+</header>
+
+<div class="controls">
+  <div class="control-row">
+    <label for="prefixType">Título:</label>
+    <select id="prefixType">
+      <option value="m">Hombre (Sr / Mr / M. / Herr)</option>
+      <option value="f">Mujer (Sra / Mrs / Mme / Frau)</option>
+      <option value="n">Neutral (Srta / Ms / Mlle)</option>
+    </select>
+    <input type="text" id="lastName" placeholder="Apellido del huésped">
+  </div>
+
+  <div class="lang-buttons">
+    <button class="lang-btn en" data-lang="en">Inglés</button>
+    <button class="lang-btn es" data-lang="es">Español</button>
+    <button class="lang-btn fr" data-lang="fr">Francés</button>
+    <button class="lang-btn de" data-lang="de">Alemán</button>
+    <button class="lang-btn pt" data-lang="pt">Portugués</button>
+  </div>
+
+  <p class="help">① Escribe el apellido. ② Toca cualquier mensaje para copiarlo. ③ Toca un idioma para traducir el último mensaje copiado.</p>
+</div>
+
+<main id="app"></main>
+
+<div id="toast"></div>
+
+<script>
+const LANG_NAMES = { en:'Inglés', es:'Español', fr:'Francés', de:'Alemán', pt:'Portugués' };
+const TITLES = {
+  en: { m:'Mr.', f:'Mrs.', n:'Ms.' },
+  es: { m:'Sr.', f:'Sra.', n:'Srta.' },
+  fr: { m:'M.', f:'Mme', n:'Mlle' },
+  de: { m:'Herr', f:'Frau', n:'' },
+  pt: { m:'Sr.', f:'Sra.', n:'Srta.' }
+};
+
+const sections = [
+  {
+    title: "BIENVENIDA / DESPEDIDA",
+    subsections: [
+      {
+        title: "Saludos",
+        messages: [
+          { id: 1, lang: "en", type: "greeting", greeting: "Good morning,", rest: " this is Emanuel, your concierge from the Guest Service department and I will be assisting you today." },
+          { id: 2, lang: "de", type: "greeting", greeting: "Guten Morgen,", rest: " hier ist Emanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen." },
+          { id: 3, lang: "en", type: "greeting", greeting: "Good morning!", rest: " this is Emanuel, your Concierge from the Guest Service department, how may I assist you?" },
+          { id: 4, lang: "de", type: "greeting", greeting: "Guten Morgen!", rest: " Hier ist Emanuel, Ihr Concierge vom Gästeservice. Wie kann ich Ihnen behilflich sein?" },
+          { id: 5, lang: "en", type: "greeting", greeting: "Good afternoon,", rest: " this is Emanuel, your concierge from the Guest Service department and I will be assisting you today." },
+          { id: 6, lang: "de", type: "greeting", greeting: "Guten Tag,", rest: " hier ist Immanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen." },
+          { id: 7, lang: "en", type: "greeting", greeting: "Good evening,", rest: " this is Emanuel, your concierge from the Guest Service department and I will be assisting you today." },
+          { id: 8, lang: "de", type: "greeting", greeting: "Guten Abend,", rest: " hier ist Emanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen." },
+          { id: 9, lang: "es", type: "greeting", greeting: "Buenos días,", rest: " soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy." },
+          { id: 10, lang: "fr", type: "greeting", greeting: "Bonjour,", rest: " ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui." },
+          { id: 11, lang: "es", type: "greeting", greeting: "Buenas tardes,", rest: " soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy." },
+          { id: 12, lang: "fr", type: "greeting", greeting: "Bonjour !", rest: " Ici Emanuel, votre concierge du guest service, comment puis-je vous aider ?" },
+          { id: 13, lang: "es", type: "greeting", greeting: "Buenas tardes,", rest: " soy Emanuel, su Concierge del departamento de Guest Service, ¿Como le puedo asistir?" },
+          { id: 14, lang: "fr", type: "greeting", greeting: "Bon après-midi,", rest: " ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui." },
+          { id: 15, lang: "es", type: "greeting", greeting: "Buenas noches,", rest: " soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy." },
+          { id: 16, lang: "fr", type: "greeting", greeting: "Bonsoir,", rest: " ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui." }
+        ]
+      },
+      {
+        title: "Despedida y asistencia",
+        messages: [
+          { id: 17, lang: "es", type: "closing", text: 'Si necesita algo más, no dude en comunicarse con nosotros a través de este chat o con el departamento de Guest Service marcando la extensión "0".' },
+          { id: 18, lang: "en", type: "closing", text: "Let me know if there's anything else I can assist you with." },
+          { id: 19, lang: "es", type: "closing", text: "No dude en informarme si hay algo más en lo que pueda asistirle." },
+          { id: 20, lang: "en", type: "closing", text: "We are attentive if you need anything else." },
+          { id: 21, lang: "es", type: "closing", text: "Estamos atentos si necesita algo más." },
+          { id: 22, lang: "en", type: "closing", text: "Thank you for your kind words, Mr. Jones. We truly appreciate your stay with us and look forward to welcoming you again on your next visit. We hope to see you soon!" },
+          { id: 23, lang: "es", type: "closing", text: "Le agradezco por sus amables palabras, Sr. Jones. Agradecemos su estancia con nosotros y esperamos darle la bienvenida nuevamente en su próxima visita. Esperamos verlo pronto!" },
+          { id: 24, lang: "en", type: "closing", text: 'If you need anything else, do not hesitate to let us know through this chat, on behalf of the Iberostar team, we appreciate your stay with us and we hope to welcome you again on your next visit. W[...]' },
+          { id: 25, lang: "es", type: "closing", text: 'Si necesita algo más, no dude en hacérnoslo saber a través de este chat, de parte del equipo de Iberostar, agradecemos su estancia con nosotros y esperamos darle la bienvenida nuevamente en su [...]' },
+          { id: 26, lang: "en", type: "closing", text: 'Let me know if there\'s anything else I can assist you with, if not don\'t hesitate to let us know over this chat or with Guest Service at extension "0"' },
+          { id: 27, lang: "es", type: "closing", text: 'Hágame saber si hay algo más en lo que pueda asistirle. De no ser así, no dude en comunicarse con nosotros por este chat o llamando a Guest Service a la Ext "0".' },
+          { id: 28, lang: "en", type: "closing", text: "We remain at your disposal for any other additional assistance." },
+          { id: 29, lang: "es", type: "closing", text: "Quedamos atento a cualquier otra necesidad que pueda tener." },
+          { id: 30, lang: "en", type: "closing", text: 'It\'s a pleasure for me to assist you, if you need anything else, please don\'t hesitate to let us know over this chat or with Guest Service at extension "0"' },
+          { id: 31, lang: "es", type: "closing", text: 'Es un placer para mí asistirte. Si necesitas algo más, no dudes en hacérnoslo saber a través de este chat o con Guest Service marcando la extensión "0".' }
+        ]
+      }
+    ]
+  }
+];
+
+let lastCopiedText = "";
+let lastSourceLang = "";
+let activeLang = "en";
+const translateCache = {};
+
+function getTitle(lang, type) {
+  return TITLES[lang]?.[type] ?? TITLES["es"][type];
+}
+
+function composeMessage(msg) {
+  const lastName = document.getElementById("lastName").value.trim();
+  const prefixType = document.getElementById("prefixType").value;
+
+  if (msg.type === "greeting" && lastName) {
+    const title = getTitle(msg.lang, prefixType);
+    return `${msg.greeting} ${title} ${lastName},${msg.rest}`;
+  }
+
+  const text = msg.text || `${msg.greeting}${msg.rest}`;
+
+  // Reemplaza nombres de ejemplo en despedidas por el apellido ingresado
+  if (msg.type === "closing" && lastName) {
+    if (msg.lang === "en") return text.replace(/Mr\. Jones/g, `${getTitle("en", prefixType)} ${lastName}`);
+    if (msg.lang === "es") return text.replace(/Sr\. Jones/g, `${getTitle("es", prefixType)} ${lastName}`);
+  }
+
+  return text;
+}
+
+function render() {
+  const app = document.getElementById("app");
+  app.innerHTML = sections.map((sec, secIdx) => `
+    <div class="section open" data-sec="${secIdx}">
+      <div class="section-header" onclick="toggleSection(${secIdx})">
+        <h2>${sec.title}</h2>
+        <span class="chevron">▼</span>
+      </div>
+      <div class="section-body">
+        ${sec.subsections.map(sub => `
+          <div class="subsection-title">${sub.title}</div>
+          ${sub.messages.map(msg => `
+            <div class="message" onclick="copyMessage(${msg.id})">
+              <div class="message-text">${escapeHtml(composeMessage(msg))}</div>
+              <div class="message-meta">
+                <span class="badge ${msg.lang}">${msg.lang}</span>
+                <span class="copy-hint">Toca para copiar</span>
+              </div>
+            </div>
+          `).join("")}
+        `).join("")}
+      </div>
+    </div>
+  `).join("");
+}
+
+function escapeHtml(str) {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function toggleSection(idx) {
+  document.querySelector(`.section[data-sec="${idx}"]`).classList.toggle("open");
+}
+
+function showToast(text) {
+  const toast = document.getElementById("toast");
+  toast.textContent = text;
+  toast.classList.add("show");
+  clearTimeout(showToast.timer);
+  showToast.timer = setTimeout(() => toast.classList.remove("show"), 2800);
+}
+
+function findMessage(id) {
+  for (const sec of sections) {
+    for (const sub of sec.subsections) {
+      const msg = sub.messages.find(m => m.id === id);
+      if (msg) return msg;
+    }
+  }
+  return null;
+}
+
+async function copyMessage(id) {
+  const msg = findMessage(id);
+  if (!msg) return;
+
+  const text = composeMessage(msg);
+  try {
+    await navigator.clipboard.writeText(text);
+    lastCopiedText = text;
+    lastSourceLang = msg.lang;
+    showToast(`Copiado · ${LANG_NAMES[msg.lang]} · Toca un idioma para traducir`);
+  } catch (e) {
+    showToast("No se pudo copiar. Intenta de nuevo.");
+  }
+}
+
+async function translateLast(targetLang) {
+  if (!lastCopiedText) {
+    showToast("Primero toca un mensaje para copiarlo");
+    return;
+  }
+
+  if (lastSourceLang === targetLang) {
+    await navigator.clipboard.writeText(lastCopiedText);
+    showToast(`Ya está en ${LANG_NAMES[targetLang]}`);
+    return;
+  }
+
+  showToast(`Traduciendo a ${LANG_NAMES[targetLang]}...`);
+  try {
+    const trans = await translateText(lastCopiedText, lastSourceLang, targetLang);
+    await navigator.clipboard.writeText(trans);
+    lastCopiedText = trans;
+    lastSourceLang = targetLang;
+    showToast(`Copiado en ${LANG_NAMES[targetLang]}`);
+  } catch (e) {
+    showToast("Error al traducir: " + e.message);
+  }
+}
+
+async function translateText(text, source, target) {
+  const key = `${source}|${target}|${text}`;
+  if (translateCache[key]) return translateCache[key];
+  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${source}|${target}`;
+  const res = await fetch(url);
+  const data = await res.json();
+  if (data.responseStatus === 200) {
+    translateCache[key] = data.responseData.translatedText;
+    return data.responseData.translatedText;
+  }
+  throw new Error(data.responseDetails || "MyMemory no pudo traducir");
+}
+
+document.querySelectorAll(".lang-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    activeLang = btn.dataset.lang;
+    document.querySelectorAll(".lang-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    translateLast(activeLang);
+  });
+});
+
+document.getElementById("lastName").addEventListener("input", render);
+document.getElementById("prefixType").addEventListener("change", render);
+
+render();
+</script>
+</body>
+</html>
