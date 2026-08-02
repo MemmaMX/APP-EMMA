@@ -6,19 +6,22 @@
 <title>App EMMA</title>
 <style>
   * { box-sizing: border-box; }
+  html { scroll-padding-top: 170px; }
   body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f3f4f6; color: #111827; }
-  header { background: #1e3a8a; color: white; padding: 16px; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.15); }
-  header h1 { margin: 0; font-size: 1.5rem; }
-  header p { margin: 4px 0 0; font-size: 0.85rem; opacity: 0.9; }
+  header { background: #1e3a8a; color: white; padding: 14px; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.15); }
+  header h1 { margin: 0; font-size: 1.4rem; }
+  header p { margin: 4px 0 0; font-size: 0.8rem; opacity: 0.9; }
 
-  .controls { background: white; padding: 14px; position: sticky; top: 0; z-index: 50; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
-  .control-row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
-  .control-row label { font-weight: 600; font-size: 0.9rem; }
+  .controls { background: white; padding: 12px; position: sticky; top: 0; z-index: 50; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+  .control-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 10px; }
+  .control-row label { font-weight: 600; font-size: 0.85rem; }
   .control-row select, .control-row input { padding: 8px 10px; font-size: 1rem; border: 1px solid #d1d5db; border-radius: 8px; }
-  .control-row input { flex: 1; min-width: 120px; }
+  .control-row input { flex: 1; min-width: 110px; }
 
-  .lang-buttons { display: flex; gap: 8px; flex-wrap: wrap; }
-  .lang-btn { flex: 1; min-width: 90px; padding: 10px; border: 2px solid #e5e7eb; background: white; border-radius: 10px; font-weight: 700; cursor: pointer; transition: all .15s; }
+  .search-box { width: 100%; padding: 8px 10px; font-size: 1rem; border: 1px solid #d1d5db; border-radius: 8px; margin-bottom: 10px; }
+
+  .lang-buttons { display: flex; gap: 6px; flex-wrap: wrap; }
+  .lang-btn { flex: 1; min-width: 80px; padding: 9px; border: 2px solid #e5e7eb; background: white; border-radius: 10px; font-weight: 700; cursor: pointer; transition: all .15s; }
   .lang-btn:hover { transform: translateY(-1px); }
   .lang-btn.active { border-color: #1e3a8a; background: #eff6ff; color: #1e3a8a; }
   .lang-btn.en { color: #1d4ed8; }
@@ -27,36 +30,44 @@
   .lang-btn.de { color: #111827; }
   .lang-btn.pt { color: #047857; }
 
-  main { max-width: 900px; margin: 0 auto; padding: 16px; padding-bottom: 80px; }
+  main { max-width: 900px; margin: 0 auto; padding: 12px; padding-bottom: 100px; }
 
-  .section { background: white; border-radius: 12px; margin-bottom: 16px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
-  .section-header { background: #f9fafb; padding: 14px 16px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #e5e7eb; }
-  .section-header h2 { margin: 0; font-size: 1rem; }
+  .jump-list { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 14px; }
+  .jump-list button { font-size: 0.7rem; padding: 5px 8px; border: 1px solid #d1d5db; background: white; border-radius: 999px; cursor: pointer; }
+  .jump-list button:hover { background: #eff6ff; border-color: #1e3a8a; }
+
+  .section { background: white; border-radius: 12px; margin-bottom: 14px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+  .section-header { background: #f9fafb; padding: 13px 14px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #e5e7eb; }
+  .section-header h2 { margin: 0; font-size: 0.95rem; }
   .section-header .chevron { transition: transform .2s; }
   .section.open .chevron { transform: rotate(180deg); }
-  .section-body { display: none; padding: 12px; }
+  .section-body { display: none; padding: 10px; }
   .section.open .section-body { display: block; }
 
-  .subsection-title { font-size: 0.9rem; color: #6b7280; margin: 16px 0 8px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px dashed #e5e7eb; padding-bottom: 4px; }
+  .subsection-title { font-size: 0.82rem; color: #6b7280; margin: 14px 0 8px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px dashed #e5e7eb; padding-bottom: 4px; }
   .subsection-title:first-child { margin-top: 0; }
 
-  .message { border: 1px solid #e5e7eb; border-radius: 10px; padding: 12px; margin-bottom: 10px; cursor: pointer; position: relative; transition: background .1s, border-color .1s; }
+  .message { border: 1px solid #e5e7eb; border-radius: 10px; padding: 11px; margin-bottom: 9px; cursor: pointer; position: relative; transition: background .1s, border-color .1s; }
   .message:hover { background: #f8fafc; border-color: #93c5fd; }
   .message:active { background: #eff6ff; }
-  .message-text { font-size: 0.95rem; line-height: 1.5; }
-  .message-meta { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; }
-  .badge { font-size: 0.7rem; font-weight: 700; padding: 3px 8px; border-radius: 999px; text-transform: uppercase; }
+  .message.filtered { border-color: #1e3a8a; background: #eff6ff; }
+  .message-text { font-size: 0.92rem; line-height: 1.45; white-space: pre-wrap; }
+  .message-meta { display: flex; justify-content: space-between; align-items: center; margin-top: 7px; }
+  .badge { font-size: 0.65rem; font-weight: 700; padding: 3px 7px; border-radius: 999px; text-transform: uppercase; }
   .badge.en { background: #dbeafe; color: #1d4ed8; }
   .badge.es { background: #fee2e2; color: #b91c1c; }
   .badge.fr { background: #dbeafe; color: #1e40af; }
   .badge.de { background: #e5e7eb; color: #111827; }
   .badge.pt { background: #d1fae5; color: #047857; }
-  .copy-hint { font-size: 0.75rem; color: #9ca3af; }
+  .copy-hint { font-size: 0.7rem; color: #9ca3af; }
 
-  .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%) translateY(100px); background: #111827; color: white; padding: 12px 20px; border-radius: 10px; font-size: 0.9rem; opacity: 0; transition: all .3s; z-index: 100; max-width: 90%; text-align: center; }
+  .empty-state { text-align: center; padding: 40px 16px; color: #6b7280; }
+  .empty-state strong { color: #374151; }
+
+  .toast { position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%) translateY(100px); background: #111827; color: white; padding: 12px 18px; border-radius: 10px; font-size: 0.88rem; opacity: 0; transition: all .3s; z-index: 100; max-width: 92%; text-align: center; }
   .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 
-  .help { font-size: 0.8rem; color: #6b7280; margin: 10px 0 0; }
+  .help { font-size: 0.75rem; color: #6b7280; margin: 10px 0 0; line-height: 1.35; }
 </style>
 </head>
 <body>
@@ -76,6 +87,8 @@
     <input type="text" id="lastName" placeholder="Apellido del huésped">
   </div>
 
+  <input type="text" class="search-box" id="searchBox" placeholder="🔍 Buscar mensaje o sección…">
+
   <div class="lang-buttons">
     <button class="lang-btn en" data-lang="en">Inglés</button>
     <button class="lang-btn es" data-lang="es">Español</button>
@@ -84,10 +97,18 @@
     <button class="lang-btn pt" data-lang="pt">Portugués</button>
   </div>
 
-  <p class="help">① Escribe el apellido. ② Toca cualquier mensaje para copiarlo. ③ Toca un idioma para traducir el último mensaje copiado.</p>
+  <p class="help">
+    ① Escribe el apellido. ② Toca cualquier mensaje para copiarlo. ③ Toca un idioma para traducir el último mensaje copiado. 
+    Si abres el archivo localmente y falla la carga, usa GitHub Pages (ver README).
+  </p>
 </div>
 
-<main id="app"></main>
+<main id="app">
+  <div class="empty-state">
+    <strong>Cargando mensajes…</strong><br>
+    Si tarda mucho, verifica que el archivo <code>APP-EMMA.txt</code> esté en la misma carpeta.
+  </div>
+</main>
 
 <div id="toast"></div>
 
@@ -101,131 +122,225 @@ const TITLES = {
   pt: { m:'Sr.', f:'Sra.', n:'Srta.' }
 };
 
-const sections = [
-  {
-    title: "BIENVENIDA / DESPEDIDA",
-    subsections: [
-      {
-        title: "Saludos",
-        messages: [
-          { id: 1, lang: "en", type: "greeting", greeting: "Good morning,", rest: " this is Emanuel, your concierge from the Guest Service department and I will be assisting you today." },
-          { id: 2, lang: "de", type: "greeting", greeting: "Guten Morgen,", rest: " hier ist Emanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen." },
-          { id: 3, lang: "en", type: "greeting", greeting: "Good morning!", rest: " this is Emanuel, your Concierge from the Guest Service department, how may I assist you?" },
-          { id: 4, lang: "de", type: "greeting", greeting: "Guten Morgen!", rest: " Hier ist Emanuel, Ihr Concierge vom Gästeservice. Wie kann ich Ihnen behilflich sein?" },
-          { id: 5, lang: "en", type: "greeting", greeting: "Good afternoon,", rest: " this is Emanuel, your concierge from the Guest Service department and I will be assisting you today." },
-          { id: 6, lang: "de", type: "greeting", greeting: "Guten Tag,", rest: " hier ist Immanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen." },
-          { id: 7, lang: "en", type: "greeting", greeting: "Good evening,", rest: " this is Emanuel, your concierge from the Guest Service department and I will be assisting you today." },
-          { id: 8, lang: "de", type: "greeting", greeting: "Guten Abend,", rest: " hier ist Emanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen." },
-          { id: 9, lang: "es", type: "greeting", greeting: "Buenos días,", rest: " soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy." },
-          { id: 10, lang: "fr", type: "greeting", greeting: "Bonjour,", rest: " ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui." },
-          { id: 11, lang: "es", type: "greeting", greeting: "Buenas tardes,", rest: " soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy." },
-          { id: 12, lang: "fr", type: "greeting", greeting: "Bonjour !", rest: " Ici Emanuel, votre concierge du guest service, comment puis-je vous aider ?" },
-          { id: 13, lang: "es", type: "greeting", greeting: "Buenas tardes,", rest: " soy Emanuel, su Concierge del departamento de Guest Service, ¿Como le puedo asistir?" },
-          { id: 14, lang: "fr", type: "greeting", greeting: "Bon après-midi,", rest: " ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui." },
-          { id: 15, lang: "es", type: "greeting", greeting: "Buenas noches,", rest: " soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy." },
-          { id: 16, lang: "fr", type: "greeting", greeting: "Bonsoir,", rest: " ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui." }
-        ]
-      },
-      {
-        title: "Despedida y asistencia",
-        messages: [
-          { id: 17, lang: "es", type: "closing", text: 'Si necesita algo más, no dude en comunicarse con nosotros a través de este chat o con el departamento de Guest Service marcando la extensión "0".' },
-          { id: 18, lang: "en", type: "closing", text: "Let me know if there's anything else I can assist you with." },
-          { id: 19, lang: "es", type: "closing", text: "No dude en informarme si hay algo más en lo que pueda asistirle." },
-          { id: 20, lang: "en", type: "closing", text: "We are attentive if you need anything else." },
-          { id: 21, lang: "es", type: "closing", text: "Estamos atentos si necesita algo más." },
-          { id: 22, lang: "en", type: "closing", text: "Thank you for your kind words, Mr. Jones. We truly appreciate your stay with us and look forward to welcoming you again on your next visit. We hope to see you soon!" },
-          { id: 23, lang: "es", type: "closing", text: "Le agradezco por sus amables palabras, Sr. Jones. Agradecemos su estancia con nosotros y esperamos darle la bienvenida nuevamente en su próxima visita. Esperamos verlo pronto!" },
-          { id: 24, lang: "en", type: "closing", text: 'If you need anything else, do not hesitate to let us know through this chat, on behalf of the Iberostar team, we appreciate your stay with us and we hope to welcome you again on your next visit. W[...]' },
-          { id: 25, lang: "es", type: "closing", text: 'Si necesita algo más, no dude en hacérnoslo saber a través de este chat, de parte del equipo de Iberostar, agradecemos su estancia con nosotros y esperamos darle la bienvenida nuevamente en su [...]' },
-          { id: 26, lang: "en", type: "closing", text: 'Let me know if there\'s anything else I can assist you with, if not don\'t hesitate to let us know over this chat or with Guest Service at extension "0"' },
-          { id: 27, lang: "es", type: "closing", text: 'Hágame saber si hay algo más en lo que pueda asistirle. De no ser así, no dude en comunicarse con nosotros por este chat o llamando a Guest Service a la Ext "0".' },
-          { id: 28, lang: "en", type: "closing", text: "We remain at your disposal for any other additional assistance." },
-          { id: 29, lang: "es", type: "closing", text: "Quedamos atento a cualquier otra necesidad que pueda tener." },
-          { id: 30, lang: "en", type: "closing", text: 'It\'s a pleasure for me to assist you, if you need anything else, please don\'t hesitate to let us know over this chat or with Guest Service at extension "0"' },
-          { id: 31, lang: "es", type: "closing", text: 'Es un placer para mí asistirte. Si necesitas algo más, no dudes en hacérnoslo saber a través de este chat o con Guest Service marcando la extensión "0".' }
-        ]
-      }
-    ]
-  }
+const GREETINGS = {
+  en: [/^Good morning[!,]?/i, /^Good afternoon[!,]?/i, /^Good evening[!,]?/i],
+  es: [/^Buenos días[!,]?/i, /^Buenas tardes[!,]?/i, /^Buenas noches[!,]?/i],
+  fr: [/^Bonjour[!,]?/i, /^Bonsoir[!,]?/i, /^Bon après-midi[!,]?/i],
+  de: [/^Guten Morgen[!,]?/i, /^Guten Tag[!,]?/i, /^Guten Abend[!,]?/i],
+  pt: [/^Boa tarde[!,]?/i, /^Bom dia[!,]?/i, /^Boa noite[!,]?/i]
+};
+
+const KNOWN_SECTIONS = [
+  "APP", "BIENVENIDA / DESPEDIDA", "ASISTENCIA ADICIONAL", "LIBERACIÓN DE TORTUGAS",
+  "RESERVACIÓN LLENA", "SOLICITAN RESERVAS, NO HAY DISPONIBILIDAD EN LA NOCHE:",
+  "SHUTTLES", "LAVANDERÍA", "ESPERA", "PAQUETES INFO", "PICKUP", "SHOWS", "PAQUETEÍA",
+  "LATE CHECK OUT / CHECK OUT", "CHECK OUT DESPUÉS DE LAS 12 PM SIN COSTO.",
+  "BEBIDAS | PAQUETE SP", "CAMBIO DE BEBIDAS Y MINIBAR PERSONALIZADO", "RESERVA DE BALINESAS",
+  "TRANSPORTACIÓN", "CAMBIO DE BEBIDAS", "LIMPIEZA", "TRENECITO - TAXIS", "DISCULPAS",
+  "AIRE ACONDICIONADO", "ROOM SERVICE", "STAR CAMP WANDAS", "MOLESTIA DE", "DESPUÉS DE LAS 11 PM",
+  "ESPAÑOL", "PR:", "LOST & FOUND", "DAY PASS", "IDIOMA DE TV",
+  "TERMINAL PUERTA 4, OPERADOR EN AEROPUERTO PARA TRANSPORTADORAS", "IMPORTANTE", "CORTESÍAS",
+  "MENSAJE POR ENCUESTA NEGATIVA | CAMBIO DE HABITACIÓN", "DISCREPANCIA",
+  "MENSAJE DE CORTESÍA POR APAGAR AIRE ACONDICIONADO",
+  "CORTESÍA PARA ACCESO POR FILTRACIÓN QUE AFECTA A LA HABITACIÓN DE ABAJO",
+  "ENCONTRADO", "CAMBIO DE HABITACIÓN SI AÚN LO QUIERE O NO", "SERVICIO MÉDICO - ESTADO DE SALUD",
+  "FUMIGACIÓN / CONFIRMACIÓN | APP", "POLITICA DE FUMADORES", "BLANCOS MANCHADOS", "FILTRACIÓN",
+  "L&F - RESERVACIÓN / APP", "QUEJA POR RUIDOS / CORTESÍA POR CONFIRMACIÓN", "APAGAR EL A/C",
+  "RS - NO ENTREGADO", "TNM - NO ENTREGADO", "CHECK OUT APP", "POLÍTICAS DE CANCELACIÓN POR EVENTO",
+  "PRENDAS EN BALCÓN", "NUEVAMENTE REPORTE", "OBJETO SOLICITADO POR LA APP", "SALES Y ESPONJA:",
+  "OBJETOS DE BEBE", "ADAPTADOR DE CORRIENTE - ESPAÑOL", "ALMOHADA U OBJETO DE STOCK - INGLÉS",
+  "RESERVA FIT & FUN", "AVERÍA AGUA CALIENTE NO HAY - PROBLEMAS DE AGUA", "IHG", "VENTAS",
+  "CENA ROMÁNTICA", "BALINESAS"
 ];
 
+let allSections = [];
+let messageIdCounter = 1;
 let lastCopiedText = "";
 let lastSourceLang = "";
 let activeLang = "en";
 const translateCache = {};
 
+function normalizeSection(line) {
+  return line.toUpperCase().replace(/[\s\-|\/\.:]/g, '').trim();
+}
+
+const normalizedKnown = KNOWN_SECTIONS.map(s => ({ original: s, norm: normalizeSection(s) }));
+
+function identifySection(line) {
+  const trimmed = line.trim();
+  if (!trimmed || trimmed.length > 140) return null;
+  const norm = normalizeSection(trimmed);
+  for (const k of normalizedKnown) {
+    if (norm === k.norm || trimmed.toUpperCase().startsWith(k.norm)) return k.original;
+  }
+  // Heurística: línea corta mayoritariamente en mayúsculas
+  const letters = trimmed.replace(/[^a-zA-ZÁÉÍÓÚáéíóúÑñ]/g, '');
+  const upper = letters.replace(/[^A-ZÁÉÍÓÚÑ]/g, '');
+  if (letters.length >= 4 && upper.length / letters.length > 0.65 && trimmed.length < 90) {
+    return trimmed;
+  }
+  return null;
+}
+
+function detectLang(text) {
+  const t = text.toLowerCase();
+  if (/^(guten|guten morgen|guten tag|guten abend)/.test(t)) return 'de';
+  if (/^(bonjour|bonsoir|bon après-midi)/.test(t)) return 'fr';
+  if (/^(boa tarde|bom dia|boa noite|o meu nome é|motivo desta)/.test(t)) return 'pt';
+  if (/^(buenos días|buenas tardes|buenas noches|hola |si necesita|no dude|hágame|estamos atentos|estamos atentas|le agradezco|quisiera informarle|lamento informarle|permítame|puede |muchas gracias|mis disculpas|es un placer|en ese caso|dado que|me llamo|soy emanuel|buenos días|buenas tardes|buenas noches|excelente noche|mis más sinceras|quedo atento|quedo atenta)/.test(t)) return 'es';
+  if (/^(good morning|good afternoon|good evening|hello |let me |we are |thank you|please |my name|i would like|i apologize|we apologize|it is a pleasure|in that case|i appreciate|i understand|sorry |could you|if you need|we have received|we kindly|i am reaching|i am contacting|i am writing|alright |during the|as an added|please note|we offer|the use of|show hawaiano|gracias por)/.test(t)) return 'en';
+  // Fallback por palabras clave generales
+  if (/\b(el|la|los|las|del|que|por|para|con|su|habitación|estancia|gracias|disculpa|reserva)\b/i.test(text) && !/\b(the|and|for|you|room|stay|thank|sorry|reservation)\b/i.test(text)) return 'es';
+  return 'en';
+}
+
+async function loadSections() {
+  let raw;
+  try {
+    const res = await fetch('APP-EMMA.txt');
+    raw = await res.text();
+  } catch (e) {
+    document.getElementById('app').innerHTML = `
+      <div class="empty-state">
+        <strong>No se pudo cargar APP-EMMA.txt</strong><br>
+        Error: ${e.message}<br>
+        Asegúrate de abrir la app desde un servidor web o GitHub Pages, no directamente como archivo local.
+      </div>`;
+    return;
+  }
+
+  const lines = raw.replace(/\r\n/g, '\n').split('\n');
+  const sections = [];
+  let currentSection = null;
+  let currentBlock = [];
+  let lastTitle = null;
+
+  function flushBlock() {
+    if (!currentSection) return;
+    const text = currentBlock.join(' ').trim().replace(/\s+/g, ' ');
+    if (!text) return;
+    currentSection.messages.push({ id: messageIdCounter++, text, lang: detectLang(text) });
+    currentBlock = [];
+  }
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed) {
+      flushBlock();
+      continue;
+    }
+    const sec = identifySection(trimmed);
+    if (sec && (!currentSection || sec !== lastTitle)) {
+      flushBlock();
+      currentSection = { title: sec, messages: [] };
+      sections.push(currentSection);
+      lastTitle = sec;
+      continue;
+    }
+    if (!currentSection) currentSection = { title: 'MENSAJES', messages: [] };
+    currentBlock.push(trimmed);
+  }
+  flushBlock();
+
+  // Descartar secciones vacías y la primera "APP"
+  allSections = sections.filter(s => s.messages.length > 0 && s.title !== 'APP');
+  render();
+}
+
 function getTitle(lang, type) {
-  return TITLES[lang]?.[type] ?? TITLES["es"][type];
+  return TITLES[lang]?.[type] ?? TITLES['es'][type];
 }
 
-function composeMessage(msg) {
-  const lastName = document.getElementById("lastName").value.trim();
-  const prefixType = document.getElementById("prefixType").value;
-
-  if (msg.type === "greeting" && lastName) {
-    const title = getTitle(msg.lang, prefixType);
-    return `${msg.greeting} ${title} ${lastName},${msg.rest}`;
+function personalize(text, lang) {
+  const lastName = document.getElementById('lastName').value.trim();
+  if (!lastName) return text;
+  const patterns = GREETINGS[lang] || [];
+  for (const re of patterns) {
+    const m = text.match(re);
+    if (m) {
+      const prefixType = document.getElementById('prefixType').value;
+      const title = getTitle(lang, prefixType);
+      const before = text.slice(0, m[0].length).trim();
+      const after = text.slice(m[0].length);
+      const sep = /^[,.!?]/.test(after.trim()) ? '' : ',';
+      return `${before}${sep} ${title} ${lastName}${after}`;
+    }
   }
-
-  const text = msg.text || `${msg.greeting}${msg.rest}`;
-
-  // Reemplaza nombres de ejemplo en despedidas por el apellido ingresado
-  if (msg.type === "closing" && lastName) {
-    if (msg.lang === "en") return text.replace(/Mr\. Jones/g, `${getTitle("en", prefixType)} ${lastName}`);
-    if (msg.lang === "es") return text.replace(/Sr\. Jones/g, `${getTitle("es", prefixType)} ${lastName}`);
-  }
-
   return text;
-}
-
-function render() {
-  const app = document.getElementById("app");
-  app.innerHTML = sections.map((sec, secIdx) => `
-    <div class="section open" data-sec="${secIdx}">
-      <div class="section-header" onclick="toggleSection(${secIdx})">
-        <h2>${sec.title}</h2>
-        <span class="chevron">▼</span>
-      </div>
-      <div class="section-body">
-        ${sec.subsections.map(sub => `
-          <div class="subsection-title">${sub.title}</div>
-          ${sub.messages.map(msg => `
-            <div class="message" onclick="copyMessage(${msg.id})">
-              <div class="message-text">${escapeHtml(composeMessage(msg))}</div>
-              <div class="message-meta">
-                <span class="badge ${msg.lang}">${msg.lang}</span>
-                <span class="copy-hint">Toca para copiar</span>
-              </div>
-            </div>
-          `).join("")}
-        `).join("")}
-      </div>
-    </div>
-  `).join("");
 }
 
 function escapeHtml(str) {
   return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
+function render() {
+  const app = document.getElementById('app');
+  const search = document.getElementById('searchBox')?.value.trim().toLowerCase() || '';
+
+  if (!allSections.length) {
+    app.innerHTML = '<div class="empty-state">No hay secciones cargadas.</div>';
+    return;
+  }
+
+  // Controles de salto rápido
+  const jumpList = `<div class="jump-list">${allSections.map((s, i) =>
+    `<button onclick="scrollToSection(${i})">${escapeHtml(s.title)}</button>`
+  ).join('')}</div>`;
+
+  app.innerHTML = jumpList + allSections.map((sec, secIdx) => {
+    const matchedMessages = sec.messages.filter(m => !search ||
+      m.text.toLowerCase().includes(search) ||
+      sec.title.toLowerCase().includes(search)
+    );
+    if (search && !matchedMessages.length) return '';
+
+    return `
+      <div class="section open" data-sec="${secIdx}" id="sec-${secIdx}">
+        <div class="section-header" onclick="toggleSection(${secIdx})">
+          <h2>${escapeHtml(sec.title)} (${matchedMessages.length})</h2>
+          <span class="chevron">▼</span>
+        </div>
+        <div class="section-body">
+          ${matchedMessages.map(msg => `
+            <div class="message ${search ? 'filtered' : ''}" onclick="copyMessage(${msg.id})" id="msg-${msg.id}">
+              <div class="message-text">${escapeHtml(personalize(msg.text, msg.lang))}</div>
+              <div class="message-meta">
+                <span class="badge ${msg.lang}">${msg.lang}</span>
+                <span class="copy-hint">${search ? 'Toca para copiar' : 'Toca para copiar'}</span>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function scrollToSection(idx) {
+  const el = document.getElementById(`sec-${idx}`);
+  if (el) {
+    el.classList.add('open');
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
+
 function toggleSection(idx) {
-  document.querySelector(`.section[data-sec="${idx}"]`).classList.toggle("open");
+  const el = document.querySelector(`.section[data-sec="${idx}"]`);
+  if (el) el.classList.toggle('open');
 }
 
 function showToast(text) {
-  const toast = document.getElementById("toast");
+  const toast = document.getElementById('toast');
   toast.textContent = text;
-  toast.classList.add("show");
+  toast.classList.add('show');
   clearTimeout(showToast.timer);
-  showToast.timer = setTimeout(() => toast.classList.remove("show"), 2800);
+  showToast.timer = setTimeout(() => toast.classList.remove('show'), 2800);
 }
 
 function findMessage(id) {
-  for (const sec of sections) {
-    for (const sub of sec.subsections) {
-      const msg = sub.messages.find(m => m.id === id);
-      if (msg) return msg;
+  for (const sec of allSections) {
+    for (const msg of sec.messages) {
+      if (msg.id === id) return msg;
     }
   }
   return null;
@@ -234,30 +349,27 @@ function findMessage(id) {
 async function copyMessage(id) {
   const msg = findMessage(id);
   if (!msg) return;
-
-  const text = composeMessage(msg);
+  const text = personalize(msg.text, msg.lang);
   try {
     await navigator.clipboard.writeText(text);
     lastCopiedText = text;
     lastSourceLang = msg.lang;
     showToast(`Copiado · ${LANG_NAMES[msg.lang]} · Toca un idioma para traducir`);
   } catch (e) {
-    showToast("No se pudo copiar. Intenta de nuevo.");
+    showToast('No se pudo copiar. Intenta de nuevo.');
   }
 }
 
 async function translateLast(targetLang) {
   if (!lastCopiedText) {
-    showToast("Primero toca un mensaje para copiarlo");
+    showToast('Primero toca un mensaje para copiarlo');
     return;
   }
-
   if (lastSourceLang === targetLang) {
     await navigator.clipboard.writeText(lastCopiedText);
     showToast(`Ya está en ${LANG_NAMES[targetLang]}`);
     return;
   }
-
   showToast(`Traduciendo a ${LANG_NAMES[targetLang]}...`);
   try {
     const trans = await translateText(lastCopiedText, lastSourceLang, targetLang);
@@ -266,7 +378,7 @@ async function translateLast(targetLang) {
     lastSourceLang = targetLang;
     showToast(`Copiado en ${LANG_NAMES[targetLang]}`);
   } catch (e) {
-    showToast("Error al traducir: " + e.message);
+    showToast('Error al traducir: ' + e.message);
   }
 }
 
@@ -280,22 +392,25 @@ async function translateText(text, source, target) {
     translateCache[key] = data.responseData.translatedText;
     return data.responseData.translatedText;
   }
-  throw new Error(data.responseDetails || "MyMemory no pudo traducir");
+  throw new Error(data.responseDetails || 'MyMemory no pudo traducir');
 }
 
-document.querySelectorAll(".lang-btn").forEach(btn => {
-  btn.addEventListener("click", () => {
+// Event listeners
+document.querySelectorAll('.lang-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
     activeLang = btn.dataset.lang;
-    document.querySelectorAll(".lang-btn").forEach(b => b.classList.remove("active"));
-    btn.classList.add("active");
+    document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
     translateLast(activeLang);
   });
 });
 
-document.getElementById("lastName").addEventListener("input", render);
-document.getElementById("prefixType").addEventListener("change", render);
+document.getElementById('lastName').addEventListener('input', render);
+document.getElementById('prefixType').addEventListener('change', render);
+document.getElementById('searchBox').addEventListener('input', render);
 
-render();
+// Cargar datos al iniciar
+loadSections();
 </script>
 </body>
 </html>
