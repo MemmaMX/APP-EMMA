@@ -1,0 +1,3137 @@
+APP
+
+BIENVENIDA / DESPEDIDA
+
+Good morning, this is Emanuel, your concierge from the Guest Service department and I will be assisting you today.
+Guten Morgen, hier ist Emanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen.
+Good morning! this is Emanuel, your Concierge from the Guest Service department, how may I assist you?
+Guten Morgen! Hier ist Emanuel, Ihr Concierge vom Gästeservice. Wie kann ich Ihnen behilflich sein?
+Good afternoon, this is Emanuel, your concierge from the Guest Service department and I will be assisting you today.
+Guten Tag, hier ist Immanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen.
+Good evening, this is Emanuel, your concierge from the Guest Service department and I will be assisting you today.
+Guten Abend, hier ist Emanuel, Ihr Concierge vom Gästeservice. Ich werde Sie heute betreuen.
+Buenos días, soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy.
+Bonjour, ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui.
+Buenas tardes, soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy.
+Bonjour ! Ici Emanuel, votre concierge du guest service, comment puis-je vous aider ?
+Buenas tardes, soy Emanuel, su Concierge del departamento de Guest Service, ¿Como le puedo asistir?
+Bon après-midi, ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui.
+Buenas noches, soy Emanuel, su concierge del departamento de Guest Service y le atenderé hoy.
+Bonsoir, ici Emanuel, votre concierge du guest service, je serai à votre disposition aujourd'hui.
+
+
+
+
+
+
+
+
+
+
+
+
+Si necesita algo más, no dude en comunicarse con nosotros a través de este chat o con el departamento de Guest Service marcando la extensión "0".
+I fixed the Internet issue by assigning my device a new randomized MAC address and with that receiving a new DHCP lease
+
+
+Let me know if there's anything else I can assist you with.
+
+No dude en informarme si hay algo más en lo que pueda asistirle.
+
+
+
+We are attentive if you need anything else.
+
+Estamos atentos si necesita algo más.
+
+
+Thank you for your kind words, Mr. Jones. We truly appreciate your stay with us and look forward to welcoming you again on your next visit. We hope to see you soon!
+Le agradezco por sus amables palabras, Sr. Jones. Agradecemos su estancia con nosotros y esperamos darle la bienvenida nuevamente en su próxima visita. Esperamos verlo pronto!
+If you need anything else, do not hesitate to let us know through this chat, on behalf of the Iberostar team, we appreciate your stay with us and we hope to welcome you again on your next visit. We hope to see you soon!
+Si necesita algo más, no dude en hacérnoslo saber a través de este chat, de parte del equipo de Iberostar, agradecemos su estancia con nosotros y esperamos darle la bienvenida nuevamente en su próxima visita. Esperamos verlo pronto!
+
+
+Let me know if there's anything else I can assist you with, if not don't hesitate to let us know over this chat or with Guest Service at extension "0"
+
+Hágame saber si hay algo más en lo que pueda asistirle. De no ser así, no dude en comunicarse con nosotros por este chat o llamando a Guest Service a la Ext "0".
+
+
+We remain at your disposal for any other additional assistance.
+Quedamos atento a cualquier otra necesidad que pueda tener.
+
+
+It's a pleasure for me to assist you, if you need anything else, please don't hesitate to let us know over this chat or with Guest Service at extension "0"
+Es un placer para mí asistirte. Si necesitas algo más, no dudes en hacérnoslo saber a través de este chat o con Guest Service marcando la extensión "0".
+ASISTENCIA ADICIONAL
+
+Is there anything else that I can assist you with?
+
+if you need anything else, please don't hesitate to let us know over this chat or with Guest Service at extension "0"
+
+Si necesita algo más, no dude en hacérnoslo saber a través de este chat o con el Servicio al Huésped marcando la extensión "0".
+
+
+
+Thank you for reaching out to us.
+Please note that all restaurant seating availability is opened in the system each morning. At this moment, I'm unable to make a reservation as I do not have access to available slots until they are released.
+We kindly suggest checking back with us in the morning, when we'll be happy to assist you with your reservation request as soon as availability is updated.
+Is there anything else that I can assist you with?
+
+My pleasure, Is there anything else that I can assist you with?
+¿Hay algo más a lo que pueda asistir?
+
+
+In that case, could you please let me know the current temperature setting on your air conditioner?
+En ese caso, ¿podría indicarme cuál es la temperatura actual configurada en su aire acondicionado?
+
+
+Is there anything else I can assist you with?
+
+Perfecto, hay algo más en lo que pueda asistirle?
+
+
+
+My pleasure to assist you, Is there anything else that I can assist you with?
+
+Un placer asistirle. ¿Hay algo más en lo que pueda ayudarle?
+
+LIBERACIÓN DE TORTUGAS
+
+There is no public sea turtle release activity because the main priority is to protect the turtles and their natural habitat. Public presence can cause stress, noise, and artificial light, which may disorient hatchlings and reduce their chances of safely reaching the ocean.
+
+Additionally, these releases sometimes take place at unannounced times, as they are coordinated exclusively by biologists based on environmental conditions. In the event that the schedule is known, the public will be informed accordingly. For now, we do not have information regarding any upcoming release activities.
+
+RESERVACIÓN LLENA
+
+
+? Thank you for your kind patience. I would like to inform you that the Japanese restaurant will be closed tomorrow, and I no longer have availability for Wednesday. However, you are welcome to enjoy our other specialty restaurants, such as the Smokehouse and the Mediterranean.
+
+Gracias por la amable espera, me gustaría informarle que el restaurante Japonés estará cerrado mañana y para el miércoles ya no me quedan espacios disponibles, pero puede degustar en nuestros otros restaurantes especiales como el smokehouse y el mediterraneo
+
+
+
+? Sometimes we have some cancellations, through the app you have access for the spots and you can make the reservation if you see the spots. Also you can reach us again tomorrow to verify again the availability
+
+Algunas veces contamos con cancelaciones a través de la aplicación, usted tiene acceso a los espacios disponibles y puede hacer la reserva si ve disponibilidad. También puede contactarnos nuevamente mañana para verificar la disponibilidad otra vez.
+
+
+
+? Regarding the restaurant, please note that reservations are subject to availability. 
+Con respecto al restaurante, tenga en cuenta que las reservaciones están sujetas a disponibilidad.
+
+
+? Additionally, if you wish to make a reservation for today, it must be done before 5:00 p.m., as after this time, I would need to check for any available spots. I cannot guarantee finding a spot due to the high occupancy.
+
+Además, si desea hacer una reservación para hoy, debe realizarse antes de las 5:00 p.m., ya que después de ese horario, tendría que revisar disponibilidad para algún espacio disponible, no le puedo garantizar encontrarle un espacio debido a la llena ocupación de los mismos.
+
+
+
+? However, if you're looking to make a reservation for another day, I would be happy to check availability for you.
+
+Sin embargo, si desea hacer una reservación para otro día, con gusto puedo verificar la disponibilidad para usted.
+
+
+
+? Would you like to reserve?
+
+¿Le gustaría hacer la reserva?
+
+
+
+? In order to make your dinner reservation, could you please provide the following information:
+
+- The number of people for the reservation.
+- The desired time for the reservation and the name of the restaurant.
+- Any food allergies or dietary restrictions for you or any members of your party.
+
+Para realizar su reserva de esta cena, ¿podría proporcionarme la siguiente información?:
+
+- El número de personas para la reserva.
+- La hora deseada para la reserva y el nombre del restaurante.
+- Cualquier alergia alimentaria o restricción suya o de alguno de los acompañantes.
+
+
+
+? I would like to let you know the reservation for the Steakhouse restaurant has been already done Mr. Riccardi, my apologies if the other reservations were not possible.
+
+Quisiera informarle que la reservación para el restaurante Steakhouse ya ha sido realizada, Sr. Riccardi. Mis disculpas si no fue posible concretar las demás reservaciones.
+
+
+? I apologize, but unfortunately, there are no available spaces left on Wednesday.
+Lamento informarle que, desafortunadamente, no hay espacios disponibles para el día miércoles.
+
+? Let me take a moment to verify this information, regarding the restaurant, please note that reservations are subject to availability.
+Permítame un momento para verificar esta información. Con respecto al restaurante, tenga en cuenta que las reservaciones están sujetas a disponibilidad.
+
+
+? I offer you an apology, we can't make reservations after 5:00 pm for the same day.
+
+Le ofrezco una disculpa, no podemos realizar reservaciones después de las 5:00 p.m. para el mismo día.
+
+
+
+? No, I offer you an apology. We can't modify it after 5:00 pm. You can approach the restaurant to make a walk in case they have availability earlier.
+No, le ofrezco una disculpa. No podemos modificarla después de las 5:00 p.m. Puede acercarse directamente al restaurante por si cuentan con disponibilidad para recibirlo sin reservación.
+
+? We inform you that, since your group is 22 people, the individual fixed menu modality is applied, which consists of choosing an appetizer, a main course and a dessert beforehand. This modality allows us to speed up the service and ensure a smoother experience for all diners.
+In this case, the service will not be "Family Style", as this format is only available for groups of 11 to 20 people, depending on the restaurant.
+Le informamos que, debido a que su grupo es de 22 personas, se aplica la modalidad de menú fijo individual, que consiste en elegir previamente una entrada, un plato fuerte y un postre. Esta modalidad permite agilizar el servicio y asegurar una experiencia más fluida para todos los comensales.
+En este caso, el servicio no será estilo "Family Style", ya que este formato sólo está disponible para grupos de 11 a 20 personas, dependiendo del restaurante.
+
+? Le agradezco por habernos contactado. Por el momento no contamos con disponibilidad para hoy en nuestro sistema, pero con gusto puede comunicarse con nosotros más tarde para verificar si se libera algún espacio por cancelación.
+Hoy el restaurante Japonés permanecerá cerrado, pero contamos con otras opciones como el Brasileño, el Italiano y el Smokehouse.
+SOLICITAN RESERVAS, NO HAY DISPONIBILIDAD EN LA NOCHE:
+Good morning, this is Emanuel, your concierge from the Guest Service department and I will be assisting you today
+
+Thank you for getting in touch with us Mrs. Van Den Berg.
+
+At the moment, we do not have the restaurant availability open yet, so we are currently unable to make reservations, we kindly suggest if its possible for you checking again later during the day reaching out with us to review any availability.
+
+During the day, we'll be looking on through the system and keep on any availability in case a space opens up, it will depend on how availability evolves throughout the day without any guarantees Mr. Van Den Berg
+
+
+
+
+
+
+
+
+
+
+
+SHUTTLES
+We offer a collective shuttle service to Playa del Carmen.
+
+The price per person is $200 MXN round trip. The shuttle departs from the Beach Lobby/Maya Lobby and is available at three different times.
+
+The first departure is at 9:00 am returning from Playa del Carmen at 1:00 pm.
+
+The second is at 11:00 am returning from Playa del Carmen at 3:00 pm.
+
+The third departure is at 5:00 pm returning from Playa del Carmen at 9:00 pm. Our bell boys will be available at the Maya lobby to assist you with boarding the shuttle. 
+
+Ofrecemos un servicio de transporte colectivo a Playa del Carmen. El precio por persona es de $200 MXN ida y vuelta. El servicio sale del lobby del Hotel  Maya y está disponible en tres horarios. 
+
+El primero sale a las 9:00 a. m. y regresa a la 1:00 p. m. desde Playa del Carmen. 
+
+El segundo sale a las 11:00 a. m. y regresa a las 3:00 p. m. desde Playa del Carmen. 
+
+El tercero sale a las 5:00 p. m. y regresa a las 9:00 p. m. desde Playa del Carmen. 
+
+Nuestros botones estarán disponibles en el lobby del Maya para ayudarle a abordar el servicio.
+LAVANDERÍA
+contamos con servicio de lavandería, el cual tiene un costo por prenda que va aproximadamente de 20 a 40 pesos mexicanos. En nuestra aplicación, en la sección "¿Cómo podemos ayudar?" dentro del menú, podrá encontrar el formulario para solicitarlo.
+Disponemos de dos tipos de servicio:
+1. Servicio regular:
+
+? Si se solicita por la mañana, la entrega puede realizarse el mismo día.
+
+? Si la solicitud se realiza alrededor del mediodía, la entrega se efectuará al día siguiente.
+
+? El tiempo máximo de entrega es de 24 horas.
+
+2. Servicio exprés:
+
+? Se entrega el mismo día, preferentemente antes de las 5 p.m.
+
+? Este servicio tiene un costo adicional.
+
+
+ESPERA
+
+Let me take a moment to verify this with my colleagues.
+
+Let me take a moment to verify this
+
+Permítanme verificar esto
+
+Please bear with me for a moment while I review the details for you Mr. Mrs. 	
+
+
+PAQUETES INFO
+
+Good evening Mr. Brooks, in any case 
+
+Es importante que recuerde que el hotel no se  hace cargo del envío, por ello le invito que le  pueda dar seguimiento al tracking de su paquete.
+
+El hotel con gusto puede apoyar en recibirlo, sin embargo también es importante que nos proporcione el código o el permiso, para nosotros poder notificarle de su llegada
+
+PICKUP
+
+Perfect to know that Ms. Robinson, i will schedule your luggage pick-up at 11:00 AM
+
+SHOWS
+check out 
+We have a Hawaiian show scheduled to begin at 7:30 PM, with the performance starting at 8:00 PM and concluding at 8:40 PM. The show will take place at the theater located on the Iberostar Beachside
+
+Show hawaiano teatro MB 7:30 -. 8:00 / 8:40 pendientes | Siestas costo extra miercoles, viernes, domingo 9:00 a 11:00 | Miriam STCAMP
+
+PAQUETEÍA
+
+Le comento que es necesario que nos comparte la clave o codigo/contraseña del seguimiento de la paquetería
+
+En todo caso le recuerdo que al ser un objeto de su pertenencia es de total responsabilidad el seguimiento del envio hacia el hotel tanto en comunicación con el repartidor entre otras cosas
+
+Lo que podemos hacer por usted es que nos notifique cuando ya haya llegado el repartidor al hotel, nosotros lo recibimos en Recursos Humanos y desde ahí nuestro equipo lo deja en recepción, una ves ahí es necesario que se encuentre disponible para darle aviso y así poder acercarse a la recepción para recogerlo Sr. Cruz 
+
+LATE CHECK OUT / CHECK OUT
+Late check-out is with an extra charge of 15 USD per hour and is necessary to verify availability, usually, the standard check-out is 12:00 at noon.
+as your check out is on the Xth/nd of XX, you will need to request this tomorrow on this first because it need at least 24 hours of anticipation to request it
+However for this request, you will need to get in contact with us one day before your check out so we can check together with the Front Desk for availability
+Sorry, at the moment we don't have availability for late check out for your room. When you do the check out you can ask for the luggage resguard. You can stay at the hotel and use the facilities at no extra charge until 6:00 pm. We have a courtesy shower next to the lobby.
+
+ El late check-out tiene un cargo adicional de 15 USD por hora y es necesario verificar disponibilidad. Por lo general, el check-out estándar es a las 12:00 del mediodía.
+CHECK OUT DESPUÉS DE LAS 12 PM SIN COSTO.
+Le agradezco por el tiempo de espera, he confimado con la recepción, sin embargo mañana habrá una llegada a esa misma habitación, por lo que estará ocupada despues de su salida
+Sin embargo podría estar en el hotel hasta las 6:00 PM máximo usando las instalaciones como piscinas y restaurantes sin embargo sin poder usar la habitación, esto sin costo.
+Puede dejar el equipaje en la recepción con los bellboys que resguardarán su equipaje hasta su salida
+
+
+?  I would like to inform you that I have secured a complimentary late check-out for room 6285, but unfortunately, there is no availability for room 6286. I invite you to enjoy our facilities while waiting for your airport transportation.
+Me gustaría informarle que he conseguido una hora de late check-out de cortesía a la hab 6285, pero para la 6286 no hay disponibilidad, por lo que les invito a disfrutar de nuestras instalaciones por mientras en lo que llega su transporte al aeropuerto.
+
+? Let me verify the check-out for you with my colleagues.
+
+ Permítame verificar el check-out con mis compañeros.
+
+Could you kindly let me know how many hours you would prefer for your late check-out?
+
+ ¿Sería tan amable de informarme cuántas horas preferiría para su late check-out?
+
+? Thank you for the kindly patience Ms. Le
+
+ Gracias por su amable paciencia, Sra. Le.
+
+? My sincerest apologies, Mrs. Rozanova. I have already confirmed the information with our colleagues, and unfortunately, we do not have availability, as we are expecting another arrival today.
+
+ Mis más sinceras disculpas, Sra. Rozanova. Ya he confirmado la información con nuestros compañeros y, lamentablemente, no tenemos disponibilidad, ya que esperamos otra llegada hoy.
+
+
+? My apologies, I have already checked the late check-out request, but it was not possible due to occupancy.
+
+ Mis disculpas, ya he revisado la solicitud de late check-out, pero no fue posible debido a la ocupación.
+
+?  Would you be so kind as to send us a reminder, please? 
+¿Sería tan amable de mandarnos un recordatorio por favor?
+
+? I would like to confirm that a late check-out has been requested until 4:00 PM. Please note that the total charge for this service will be 60 USD.
+
+ Me gustaría confirmar que se ha solicitado un late check-out hasta las 4:00 p.m. Tenga en cuenta que el cargo total por este servicio será de 60 USD.
+
+? Additionally, it is important to inform you that you will need to visit the front desk either today, tomorrow, or Thursday to have your keys reprogrammed for access until 4:00 PM.
+
+ Además, es importante informarle que deberá pasar por la recepción hoy, mañana o el jueves para que sus llaves sean reprogramadas para el acceso hasta las 4:00 p.m.
+
+? However, it's important to remind you that to request a late check-out, please contact us via text or by calling extension "0" with Guest Services at least 24 hours in advance. This means the request should be made on Saturday.
+ Sin embargo, es importante recordarle que para solicitar un late check-out, debe contactarnos por mensaje de texto o llamando a la extensión "0" con Servicios al Huésped al menos 24 horas antes. Esto significa que la solicitud debe realizarse el sábado.
+
+? This is a courtesy message to tell you about your check-out time (3:50 p.m.), as you have requested through the application it is after 12:00 p.m., and this is Late Check-out which has a cost of $15 USD per hour and depends on the availability of your room.
+
+Este es un mensaje de cortesía para informarle sobre su hora de check-out (3:50 PM). Como lo solicitó a través de la aplicación ya que es después de las 12:00 PM, y esto corresponde a un Late Check-out, el cual tiene un costo de 15 USD por hora y depende de la disponibilidad de su habitación.
+Good afternoon, this is Emanuel, your concierge from the Guest Service department and I will be assisting you today.
+My apologies for this situation Mrs. King, as this should not be happening; the housekeeping staff has been already informed about this situation and they are on their way to change these blankets, sheets and pillows,
+I understand that they are already asleep and should not sleep on them, so in that case, please let me know when they wake up so that we can make the change as soon as possible and remove the blankets, avoiding our staff disturbing their sleep
+We would like to express our gratitude for the information you have provided regarding this matter. Rest assured, we will ensure that this issue does not recur and will communicate the necessary details to the relevant departments.
+
+
+BEBIDAS | PAQUETE SP
+
+Our bars offer a diverse selection of beverages for our guests to enjoy.
+
+However, with the Star Prestige package, you can access an enhanced experience that includes a wider variety of premium drinks, exclusive benefits, and personalized services designed to make your stay even more special
+
+CAMBIO DE BEBIDAS Y MINIBAR PERSONALIZADO
+
+Podemos realizar un cambio en las bebidas incluidas. Es decir, usted puede indicarnos cuáles bebidas desea, y dependiendo de la cantidad, podemos reemplazarlas por aquellas que no vaya a consumir, respetando la misma cantidad.
+
+RESERVA DE BALINESAS
+
+Thank you for your reservation, that's all for now.
+
+Our bars offer a diverse selection of beverages for our guests to enjoy.
+
+The use of the balibeds are only the use $500mxn pesos or with beverage included $900mxn pesos. Option 1: 4 crowns.
+Option 2: 2 Piña Coladas in pineapple.
+Option 3: 2 Coco Locos with coconut.
+
+
+TRANSPORTACIÓN
+
+I offer you an apology, we don't have information about the transportation because they are external companies. We recommend you to contact your agency to confirm your pick up.
+
+CAMBIO DE BEBIDAS
+
+Sure, Ms. King, could you please let us know how many drinks you currently have in the minibar? We can exchange the drinks for you. Just let us know how many you would like to swap, and we will send the same number of diet cokes to your room.
+
+LIMPIEZA
+
+The change of bed linens is part of the daily cleaning service. In this case, may I ask if the cleaning service has already been done today
+
+TRENECITO - TAXIS
+
+I would like to inform you that we have a train that makes a trip every 10/15 minutes. You can verify the real-time schedule on your Iberostar app in the section 'How to get quickly to the resort and then move by train'. You will find the train routes in real-time. https://iberostar-map-mobile.glowicom.com/
+
+At the moment, you only need to wait at the 51 stop; the train will be with you in approximately 10 minutes from now.
+Si lo desea, puede escribirnos a través de este chat alrededor de 15 minutos antes de su reserva o contactarnos llamando al "0" con Guest Service, y con gusto le proporcionaremos el carrito.
+DISCULPAS
+Entiendo en verdad ofrezco disculpas y no es algo usual ni que caracterice el servicio, lamento mucho esto, sin embargo es importante que se acerque directamente al área de tour para llegar a un acuerdo de mi parte haré llegar sus comentarios
+Good morning, this is Emanuel, your concierge from the Guest Service department and I will be assisting you
+I appreciate your contact with us to let us know about this situation. I want to apologize about this and I understand how frustrating must be, I have already told our staff to check on this as soon as possible, please accept my apologies
+
+AIRE ACONDICIONADO
+We can submit a request remotely to set the temperature to 18°C, the lowest setting of the A/C.
+ROOM SERVICE
+Good morning Mr. Tobias,
+
+This is Emanuel from the Guest Service department. I would like to inform you that our room service colleague attempted to deliver your order; however, you were not available to grant access at that time. 
+
+Could you kindly let us know when you will be back in your room so that we may instruct him to return with your order, please let us know Mr. Tobias
+
+I'll be attentive to your response. Regards
+
+Due to the hotel's hygiene policy and our commitment to the privacy of our guests, it is not possible to leave food at the door, nor may staff enter the room if the guest is not present. Therefore, you will need to be in the room at the time of delivery.
+
+STAR CAMP WANDAS
+
+During this experience, children enjoy a light "Family Style" breakfast (food is placed in the center to share), they can interact, take photos, and play with the characters, and at the end, Coral gives them a special gift for participating.
+
+Being every Thursday at 09:30 PM at the Corner Sport Bar on Paraíso Lindo Lobby without any cost.
+
+MOLESTIA DE 
+
+The playground is open. I am very sorry for the inconvenience. I was not aware that your baby is two years old, and the StarCamp area is for children aged 3 and up. However, near the main pool there is a space called "Canguro", which is designated for children under 3 years old and is specially prepared for them. For safety reasons, children under 3 are not allowed in the +3 area.
+
+We apologize for this situation; we did not have the detail that your baby is under 3 years old.
+
+
+
+DESPUÉS DE LAS 11 PM
+
+Good evening Mrs. Weems
+
+This is Emanuel from the Guest Service department. I would like to inform you that our room service colleague attempted to deliver your order now; however, you were not available to grant access at that time.
+
+As the room service closes at 11:00 PM, you cannot order again by this moment, instead you can try the Star Café at Lindo Lobby, a 24/7 hr place we're you can eat something Mrs. Weems
+
+Regards
+
+ESPAÑOL
+
+Buenas noches, Sr. Rivera
+Soy Emanuel, del departamento de Guest Service.
+Me gustaría informarle que nuestro compañero de Room Service ha intentado entregarle su pedido, pero no se encontraba en la habitación en ese momento.
+Dado que Room Service cierra a las 11:00 PM, ya no se puede volver a hacer un pedido después de esta hora, pero puede probar en el Star Café en la recepción de Lindo, un local abierto las 24 horas del día donde puede comer algo Sr. Rivera
+Saludos cordiales
+
+PR:
+Boa tarde, Sr. Garcia, o meu nome é Emanuel do departamento de Guest Service, o motivo desta mensagem de cortesia é para dar seguimento à entrega das suas papas, a minha colega de serviço de quarto foi fazer a entrega mas não as encontrámos, devido às políticas de higiene a comida tem de ser recebida por alguém, e não pode ser entregue no exterior, se precisar de encomendar novamente pode confirmar-nos neste meio ou no ext. 0.
+LOST & FOUND
+¿Podría decirme cuándo fue la última vez que vió el objeto, a qué hora, y darme cualquier descripción que pueda ayudar a localizarlo en nuestro inventario de objetos perdidos? Esto puede incluir detalles como el color, el tamaño o cualquier otra característica distintiva
+Alright Ms. Heys, we have a specialized Lost & Found system dedicated to locating lost items. We will create a report for the mentioned item, and in the event that we find a similar item, we will promptly inform you.
+DAY PASS
+The Aqua Park, located at Lindo & Maya, is available at an additional cost, as it is considered a Day Pass service. The Day Pass has an extra cost of 1,980 MXN per person and is valid from 9:00 AM to 6:00 PM.
+LAVANDERÍA
+
+Good Morning Mr. Gersbeck
+
+My name is Emanuel, this is your concierge from the Guest Service department
+
+This is a courtesy message regarding the laundry service you requested. Our team received a request for both regular and express service; however, only the regular service bag was found and our staff did not locate the express service bag.
+
+Could you please confirm whether you would still like us to proceed with the express service? We remain at your disposal and will be attentive to your response.
+
+NIÑERA
+
+We are pleased to offer our babysitting service. Please find attached the details below:
+Cost per hour:
+For 2 children: $15 USD per hour
+For 3 children or more: $20 USD per hour
+After 11:00 PM:
+For 2 children: $20 USD per hour + $25 USD for the taxi
+For 3 children or more: $25 USD per hour + $25 USD for the taxi
+The service must be paid in cash at the end of the service.
+In the event of a cancellation with less than 24 hours' notice, a 50% cancellation fee will apply.
+
+IDIOMA DE TV
+How to Change the Language Settings:
+1. Press the "Home" button on your remote.
+
+2. Navigate to "Settings."
+
+3. Go to "General."
+
+4. Select "System Manager" (or an option related to sound or language settings).
+
+5. Look for the "Language" setting.
+
+6. Choose your preferred language from the list.
+
+This will allow you to change the system language to either Spanish or English.
+
+TERMINAL PUERTA 4, OPERADOR EN AEROPUERTO PARA TRANSPORTADORAS
+
+
+
+
+
+We have the following spaces where you can find snacks:
+
+-Corner Sport 18:00 - 22:00 (Near the Lindo Lobby)
+-Star Cafe Maya 18:00 - 23:00
+-Star Cafe Lindo 24 hsr
+-Pizza Corner 17:30 - 21:00
+
+IMPORTANTE
+ PEREZ ALVARO
+
+OUT 08.08
+ Para su información:
+  
+ALERGICO A FRUTOS SECOS Y HUEVO
+
+Por lo que es necesario poner especial cuidado en la preparación de sus alimentos NO incluyendo ningún tipo de este ingrediente o alimento y favor de NO emplear utensilios de cocina que hayan estado en contacto previamente.  
+Para cualquier duda o aclaración contactar a Concierge en la extensión 8463 o directamente con el Chef en turno.
+
+Hasta el momento cuentan con estas Reservaciones 
+
+
+
+
+OK Tarjeta de Alérgicos
+OK comentarios en NH.
+
+Saludos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CORTESÍAS
+RL&F - SIN ENCONTRAR
+Buenos días XX
+Mi nombre es Emanuel del departamento de Guest Service.
+Me presento cómo su concierge, este es un mensaje de cortesía para informar que desafortunadamente no hemos encontrado la botella que nos reportó. Sin embargo, seguiremos con la búsqueda de su objeto durante su estancia hasta su check out, y si en dado caso de encontrar un artículo similar se lo haremos saber mediante este chat. Para realizar una mejor búsqueda, ¿cuenta con alguna imagen de la botella?.
+Estaré al pendiente de su respuesta Mr. XX.
+Saludos.
+MENSAJE POR ENCUESTA NEGATIVA | CAMBIO DE HABITACIÓN
+Buenas tardes Sra. Larios
+Les saluda Emanuel del departamento Guest Service, esperando que se encuentren bien.
+Les invito a poder acercarse hacia la recepción de Lindo o con su concierge más cercano en los escritorios del edificio 54, 53 o 51 para poder entender la situación con la habitación y su solicitud de cambio. 
+El bienestar de nuestros huéspedes es importante para nosotros, por lo tanto les agradecería de su asistencia para su pronto apoyo y comprensión.
+Les deseo una excelente tarde Sra. Larios,
+Saludos cordiales
+
+
+
+
+
+
+
+
+
+
+
+
+
+DISCREPANCIA
+Good afternoon, I'm Rosario from Guest Services. I hope you're well. This message is because we have a request for your laundry service, however I'm afraid we were unable to proceed with your service because we have a discrepancy in the laundry you registered. Could I access your email? If you accept the discrepancy, the service will be processed. Otherwise they will cancel the service.
+
+Buenos días Sra. Ramos
+Este es un mensaje de cortesía por parte del Departamento de Guest Service, mi nombre es Emanuel.
+El motivo de mi mensaje es sobre una solicitud para su servicio de lavandería; sin embargo, me temo que no hemos podido continuar con ella porque hay una discrepancia en la ropa que ha registrado, ya que la cantidad ingresada en la bolsa difiere de la cantidad ingresada en el formulario.
+¿Podría revisar su correo electrónico? Debería ver una notificación por parte del Hotel dónde aceptará la discrepancia, si no está ahí puede revisar su carpeta de "Spam" dónde debería observar un botón azul.
+Si acepta la discrepancia, se continuará con el servicio. De lo contrario, sin respuesta se cancelará.
+
+MENSAJE DE CORTESÍA POR APAGAR AIRE ACONDICIONADO
+Buenos días Sr. Acuña, 
+Este es un mensaje de cortesía por parte de Emanuel del departamento de Guest Service
+El motivo de mi mensaje es para comentarle que nuestro personal ha encontrado que el A/C está siendo apagado, lo que genera humedad atrás del mueble del televisor, por lo que apagar el aire tanto como abrir la terraza mientras no está causará humedad y moho por el ambiente en el que nos encontramos
+Es de suma importancia mantener puertas cerradas y aire ventilado para mantener seguras y limpias las instalaciones de la habitación
+Gracias por su comprensión
+Saludos Sr. Acuña,
+Guest Service 
+
+
+
+
+
+
+CORTESÍA PARA ACCESO POR FILTRACIÓN QUE AFECTA A LA HABITACIÓN DE ABAJO
+
+Buenas noches Sr. Fothergill
+
+Este es un mensaje de cortesía por parte de Emanuel del departamento de Guest Service.
+
+El motivo de mi mensaje es para informarle que hemos detectado una filtración de agua que está afectando la habitación que se encuentra debajo de la suya. 
+
+Para poder detenerla y evitar mayores afectaciones, solicitamos amablemente su autorización para que nuestro equipo de mantenimiento ingrese a su habitación y pueda realizar la revisión y reparación correspondiente.
+
+Agradecemos mucho su comprensión y apoyo para resolver esta situación. Quedo a la espera de su confirmación.
+
+Saludos cordiales,
+Guest Service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENCONTRADO
+Good afternoon, Mr. Webster,
+
+This is Emanuel from the Guest Service Department.
+
+I am reaching out to inform you that we have located an item in our Lost & Found system that matches the characteristics of the one you reported.
+If you recognize this item as yours, kindly confirm with us Mr. Webster
+
+CAMBIO DE HABITACIÓN SI AÚN LO QUIERE O NO
+
+Good morning Mrs. Bahbouche
+
+This is Emanuel from Guest Service Department, we hope you are doing well.
+
+We are reaching out to follow up regarding the room change that had previously been discussed.
+
+We have reviewed the current availability with our Front Desk team and we still have a room available in Building 63. However, we would like to confirm whether you are still interested in relocating, as the room that was originally offered is no longer available due to the time that has passed and the hotel's current occupancy.
+
+Should you still wish to proceed with the room change, please let us know and we will be pleased to coordinate the room change with our Front Desk team.
+
+We remain at your disposal and look forward to your response.
+
+Have a wonderful day.
+
+Kind regards,
+Guest Service
+
+
+
+SERVICIO MÉDICO - ESTADO DE SALUD
+Buenos días XX
+Mi nombre es Emanuel del departamento de Guest Service.
+Me pongo en contacto con usted para cuestionarle sobre el estado de la Sra. Lombardo, tras la fiebre que ha presentado. La salud de nuestros huéspedes es nuestra prioridad, por lo que quedo a su disposición para cualquier asistencia adicional que puedan requerir.
+No dude en comunicarse con nosotros a través de este chat o llamando a la extensión "0" con Guest Service.
+Quedo atento a su respuesta.
+
+Good morning, Ms. Stefanchik,
+My name is Emanuel from the Guest Services department.
+I am reaching out to inquire about your son Samuel's condition following the rash he has developed.
+The health of our guests is our top priority, so I am available to provide any additional assistance you may need.
+Please feel free to contact us via this chat or by calling extension "0" to reach Guest Services.
+I look forward to hearing from you.
+Have a wonderful afternoon,
+Emanuel
+Guest Services
+
+Good afternoon Mr. Wall
+My name is Emanuel from the Guest Service department.
+I am contacting you to question you about the situation with the Mr. Walls's condition, following the injury he has presented. The health of our guests is our priority, so I remain at your disposal for any further assistance you may require.
+Please do not hesitate to contact us through this chat or by calling extension "0" with Guest Service.
+I look forward to hearing from you.
+
+
+
+FUMIGACIÓN / CONFIRMACIÓN | APP
+
+Good evening Mr Jones.
+
+My name is Mario from guest service.
+
+The reason for this message is to know if everything is in order after the spray fumigation and housekeeping service. Could you please confirm with us Mr Jones? Please if the inconvenience persists, do not hesitate to let us know through this chat or calling by Guest Services (Ext 0).
+
+We will be glad to assist you.
+
+warm regards.
+
+
+
+
+
+POLITICA DE FUMADORES
+
+
+Buenas tardes Sr. Facio
+
+Soy Emanuel, del departamento de Guest Service, 
+
+El motivo de este mensaje es informarle, que nuestro equipo de limpieza ha detectado que se ha estado fumando en la terraza de la habitación. Le recordamos que fumar no está permitido dentro de las habitaciones ni en sus áreas adentro, ya que estas cuentan con sensores de alarma que pueden activarse, además de que el humo puede afectar a otros huéspedes, especialmente al tratarse de un espacio familiar.
+
+Le recomendamos amablemente hacer uso de las áreas designadas para fumar, ubicadas en la planta baja, identificadas con ceniceros de color blanco o en las vialidades, lejos de las habitaciones. En caso de reincidencia, podría aplicarse una penalización de 5,000 MXN, conforme a las políticas del hotel.
+
+Adicionalmente, le informamos que al apagar el aire acondicionado puede generarse condensación, lo cual podría provocar humedad en los blancos y en las paredes, favoreciendo la aparición de moho.
+
+
+BLANCOS MANCHADOS
+
+Good morning Mrs. Fagnan,
+
+This is Emanuel from the Guest Service Department.
+
+I am writing to follow up regarding the blankets that were found to require special cleaning. Your comfort and well-being during your stay are very important to us, and we simply wanted to check if you or anyone in your room is feeling well.
+
+If you feel comfortable sharing, we would appreciate any information about what may have caused the situation, as this helps us ensure that everything is properly taken care of.
+
+We remain at your disposal for any assistance you may need. Please do not hesitate to contact us through this chat or by calling extension "0" for Guest Service.
+
+Kind regards,
+Emanuel
+Guest Service Department
+
+
+
+
+
+
+FILTRACIÓN
+
+Good evening Mrs. Lee
+
+My name is Emanuel from Guest Service.
+
+The reason for this message is to know if everything is in order after the assistance with the leaking and housekeeping service. Could you please confirm with us Mrs. Lee? Please if the inconvenience persists, do not hesitate to let us know through this chat or calling by Guest Services (Ext 0).
+
+We will be glad to assist you.
+
+warm regards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L&F - RESERVACIÓN / APP
+Good Morning Mr. Penhale,
+
+My name is Emanuel, your concierge from the Guest Service Department.
+Following our recent phone conversation regarding your reservations at the Brazilian and Japanese Restaurants, I will be sending you the tickets with the following details:
+
+· Monday at 7:00 PM for 5 people (Rooms 3203 & 3204) at the Rodizio
+· Tuesday at 7:00 PM for 5 people (Rooms 3203 & 3204) at the Hashiru
+
+Please confirm that the information provided is correct for these reservations. Kindly note that reservations will be canceled 15 minutes after the scheduled time if no one shows up.
+Cancellations can be made without charge until 2:00 PM on the same day as the reserved dinner.
+No-shows will incur an automatic penalty fee of 10 USD per reservation.
+I look forward to your confirmation Mr. Penhale, Regards.
+Could you kindly provide me at which restaurant you're interested in booking, along with additional details such as how many people, the date of your reservation, and the preferred time of it?
+With this information i can help you searching for spaces, instead, please remember that is under availability depending on the restaurant that are you looking fo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUEJA POR RUIDOS / CORTESÍA POR CONFIRMACIÓN
+Good morning Mr. Fuetter.
+My name is Emanuel from Guest Service.
+The reason for this message is to know if everything is in order with your room and if you were able to sleep well after the noises this morning. Could you please confirm whether the noise has ceased? If the issue persist, please do not hesitate to contact us via this chat or by calling Guest Service at Ext. (0)
+We will be glad to assist you.
+warm regards.
+
+Good morning, Mrs. López. This is Emanuel from the Guest Service Department.
+I am reaching out as a courtesy regarding the noises you experienced yesterday. I would like to kindly ask if you have heard any further noises since then. Your comfort and well-being are very important to us, so please let us know if you were able to rest well.
+Should you need any further assistance, we are at your service. You may contact us at any time by dialing Ext. "0".
+
+APAGAR EL A/C
+Buenas tardes Sra. Koldowski
+Este es un mensaje de cortesía por parte del departamento de Guest Service, sucede que el equipo de limpieza han encontrado que apagan el aire acondicionado de su habitación.
+Debido a que nos encontramos en una zona cercana al mar y con clima cálido, al apagar el aire puede generarse humedad dentro de la habitación, lo que podría ocasionar condensación y afectar el las paredes o las sábanas del espacio, le recomendamos mantenerlo en automático para estas situaciones.
+Esperamos pueda comprendernos,
+Saludos
+--------------------------
+Good afternoon, Ms. Koldowski
+This is a courtesy message from the Guest Services department. The cleaning team has found that the air conditioning in your room has been turned off.
+Since we are located near the sea and the climate is warm, turning off the air conditioning can cause humidity to build up inside the room, which could lead to condensation and affect the walls or sheets. We recommend keeping it on automatic in these situations.
+We hope you understand.
+Regards
+
+
+RS - NO ENTREGADO
+Good morning Mr. . My name is Emanuel from the Guest Service Department. 
+
+This is a courtesy message regarding the Room Service order that you made. It happens that my colleagues approached your room, but they couldn't find you. We also made courtesy calls but nobody had answered, it's necessary to be present in the room to receive the food. Could you please be so kind to let us know when you come back to your room, so we can send the order again. 
+Warm regards.
+Good afternoon, my name is Daniel from Guest Service, it will be a pleasure to assist you today. Could you provide the following information to verify the availability? I need to know how many people there are in your party, whether you are coming with people staying in other rooms, and what time you would like your dinner reservation.
+
+Good afternoon, Mr. De Jong..
+My name is Clara from the Guest Service department.
+
+I would like to inform you that my room service colleagues have attended to his room with his room service but no one answered the call. Someone needs to answer the door. My colleagues cannot leave food unattended due to hygiene regulations. If you would like my coworkers of room service to start again the process of your order again, you could contact us through this means or at our Guest Service department at extension "0"
+
+Have a nice day.
+
+
+
+
+
+
+Buenas noches Sra. Cázares
+
+Me llamo Emanuel y soy del departamento de Guest Service
+Me gustaría informarle de que mis compañeros de Room Service han acudido a su habitación con su pedido, pero nadie ha respondido a la llamada. 
+
+Es necesario que alguien abra la puerta para recibir la orden. Mis compañeros no pueden dejar la comida sin que esté dentro de la habitación debido a las normas de higiene y privacidad.
+
+Si desea que mis compañeros de Room Service vuelvan a realizar su pedido, puede ponerse en contacto con nosotros a través de este medio o llamando a nuestro departamento de Guest Service, marcando la extensión "0".
+
+Excelente noche Sra. Cázares
+
+
+TNM - NO ENTREGADO
+
+Good evening Mrs. Carter
+
+My name is Emanuel from the Guest Service Department. 
+
+This is a courtesy message regarding the Blankets order that you made. It happens that my colleague approached to your room, but they couldn't find you since you had the "Do not disturb" card on the door, due to the late hour, we cannot make courtesy calls. 
+
+Could you please be so kind to let us know when you put down the card, so we can send the order again. 
+
+Warm regards.
+
+CHECK OUT APP
+
+We would like to confirm that we have received a request for a check-out with luggage assistance at 10:15 AM. Could you please confirm the time for this? 
+
+Nos gustaría confirmar que hemos recibido una solicitud de salida con asistencia de equipaje a las 8:00 AM. Por favor, ¿podría confirmarnos la hora? 
+
+
+Good morning Mr. Zygmunt
+
+This is a courtesy message from the Guest Service Department, we would like to confirm that we have received a request for a check-out with luggage assistance at 12:15 AM. Could you please confirm the time for this? As we can see on our system, you do not have requested a Late Check-Out, the standard check out takes place at 12:00 PM, however staying longer will mean a late check out, having an extra cost of 15 USD per hour, would you like to extend until 1:00 PM (this request depends on availability) or remain the luggage pick up at noon
+
+
+POLÍTICAS DE CANCELACIÓN POR EVENTO
+Good afternoon Miss Melissa,
+I am contacting you, according to what we discussed this morning I will personally share with you the cancellation policies for the event,
+About our events on the beach, as you mentioned, due to our changing weather in the Riviera Maya, we have the following cancellation policies,
+? Cancellation more than 24 hours in advance 100% refundable, today Monday before 7:00 pm.
+? Cancellation more than 12 hours in advance 50% refundable
+? Cancellation the same day of the event is non-refundable.
+In case of bad weather conditions, we offer as a backup an a la carte restaurant meaning that the set up and dinner will be moved to that location. To change the location you have today and tomorrow tuesday before 1 pm.
+
+We are sorry that the weather conditions at the moment are not favorable for your event. We are at your service through this email, the chat in the Iberostar app and with your concierge in the building ext. 8461 or "0" 24 hours.
+If you have any questions, please do not hesitate to contact me.
+
+Greetings.
+
+PRENDAS EN BALCÓN
+Good morning, Mr. Williams.
+My name is Emanuel, your Guest Service Concierge. 
+My apologies to bother you at this hour, the reason for my message is to inform that we received a report about some clothes hanging on the balcony railings, however it is important to keep them inside of the room considering the security of your clothes. Thank you very much for your attention, remember we are able 24 hours by this media or dialing Guest Service Extension "0" from your room telephone. 
+
+Buenos días, Sr. Williams.
+Mi nombre es Emanuel, su Concierge del Departamento de Guest Service.
+Mis disculpas por molestarlo a esta hora, el motivo de mi mensaje es para informarle que recibimos un reporte sobre algunas prendas de vestir colgadas en las barandas del balcón, sin embargo es importante mantenerlas dentro de la habitación considerando la seguridad de su ropa. Muchas gracias por su atención, recuerde que estamos a su disposición las 24 horas por este medio o marcando a la Extensión "0" de Guest Service desde el teléfono de su habitación. 
+
+NUEVAMENTE REPORTE
+Good morning, Mrs. Pollard.
+My name is Emanuel, your Guest Service Concierge 
+
+My apologies to bother you at this hour, however my message is to inform that we received again a report about the clothes hanging on the balcony railings, however it is important to keep them inside of the room considering the security of your clothes. Thank you very much for your attention, to dialing Guest Service Extension "0" from your room telephone or write us through this chat. 
+
+Buenos días, Sra. Valle
+Mi nombre es Emanuel, su Concierge del departamento de Guest Service.
+Mis disculpas por molestarla a esta hora, sin embargo, le escribo para informarle que hemos recibido nuevamente un reporte sobre ropa colgada en las barandillas del balcón. Es importante mantener la ropa dentro de la habitación por motivos de seguridad.
+Muchas gracias por su atención. Si necesita asistencia, no dude en marcar la Ext. "0" desde el teléfono de su habitación o escribirnos mediante este chat.
+
+
+
+OBJETO SOLICITADO POR LA APP
+Good morning Mrs. Reyes
+This is Emanuel, your concierge from the Guest Service Department.
+We have recieved a request for a baby botlle set through the APP, during nighttime, it is not possible for the staff to send one of these because the storage place that holds them are not available. However you can reach us in this morning or during the day to check for availability with us either through this chat or by dialing Ext. "0" with Guest Service.
+Thank you.
+
+SALES Y ESPONJA:
+Good morning Mrs. Shortell
+This is Emanuel, your concierge from the Guest Service Department.
+We have received a request through the APP for a vegetable sponge and bath salts. Kindly note that these items are not part of the amenities managed or available in our storage areas. This request appears to be an error within the application.
+Should you require assistance with any other amenity or have any questions, please feel free to contact us through this chat or by dialing Ext. "0" with Guest Service.
+Thank you for your understanding.
+OBJETOS DE BEBE
+Good morning, this is Emanuel, your concierge from the Guest Service Department.
+During the nighttime, baby bathsets are subject to availability; however, at this time our staff does not have this item. In the morning, you may text or call us whenever you would like one, and we will be happy to check availability for delivery
+
+ADAPTADOR DE CORRIENTE - ESPAÑOL
+DE NOCHE
+Buenas noches, Sr. Reviriego, Soy Emanuel, Concierge del Departamento de Guest Service.
+Hemos recibido una solicitud de un adaptador de corriente a través de la aplicación. 
+Durante la noche, no contamos con ese objeto para envío, ya que con quienes lo puede solicitar no se encuentran disponibles, en este caso, los Concierges de Relaciones Públicas en los escritorios. Sin embargo, puede ponerse en contacto con ellos mañana o durante el día puede conseguirlos en el centro comercial.
+Gracias.
+DE DIA
+Buenas noches, Sra. Nevado, Soy Emanuel, Concierge del Departamento de Guest Service.
+Hemos recibido una solicitud de un adaptador de corriente a través de la aplicación. 
+Los Concierges de Relaciones Públicas en los escritorios, cuentan con estos objetos para préstamo, puede ponerse en contacto con ellos mañana y acercarse también con ellos en su edificio, o durante el día puede conseguirlos en el centro comercial en caso de que no los tengan.
+Gracias.
+
+
+
+----------------------------
+ALMOHADA U OBJETO DE STOCK - INGLÉS
+Good evening, Mr. Donahue,
+This is Emanuel, your concierge from the Guest Service Department.
+We received your request for a pillow set through the app. Thank you for reaching out to us.
+At the moment, due to high occupancy and multiple similar requests, we unfortunately do not have any extra pillows available to deliver. We sincerely apologize for the inconvenience.
+We kindly suggest checking with us again tomorrow morning or later in the day, either through this chat or by dialing extension "0" to reach Guest Services. We'll be happy to assist you as soon as additional pillows become available.
+Thank you
+RESERVA FIT & FUN
+Good evening,
+This is Emanuel from the Guest Service Department
+We have received a request through the app regarding a reservation for the soccer at 10:30 AM. Kindly confirm whether you would like to proceed with this reservation.
+For further assistance, we recommend visiting the gym in person. Alternatively, you may contact us by dialing "0" to confirm the reservation directly with the gym team.
+We look forward to your confirmation.
+Kind regards,
+
+
+
+
+
+AVERÍA AGUA CALIENTE NO HAY - PROBLEMAS DE AGUA
+Thank you for reporting this. Our maintenance team is already working on the issue. At the moment, we are experiencing some water-related problems, which may be affecting the shower. However, please don't worry the team is addressing it right now. We kindly ask for your understanding as we work to improve our facilities.
+
+
+IHG
+Estimado ,
+A nombre de Iberostar Selection [Lindo o Maya) le extendemos nuestra más sincera gratitud y aprecio por su inquebrantable lealtad como miembro IHG One Rewards. Estamos encantados de tener la oportunidad de darle la bienvenida.
+Deseamos que su estancia con nosotros sea una experiencia excepcional. 
+No dude en contactarnos para cualquier necesidad. 
+Saludos cordiales
+
+Dear ,
+On behalf of Iberostar Selection [Lindo or Maya], we extend our sincere gratitude and appreciation for your unwavering loyalty as an IHG One Rewards member. We are delighted to have the opportunity to welcome you.
+We hope your stay with us will be an exceptional experience.
+Please do not hesitate to contact us for any needs you may have.
+Best regards
+
+
+
+
+
+
+
+VENTAS
+CENA ROMÁNTICA
+If you're looking for something special to celebrate with your partner this Valentine's Day, we have two exclusive packages designed just for you:
+
+- The Special Love Package, priced at 5,000 MXN per couple.
+- The Always in Love Package, priced at 6,800 MXN per couple, which includes a bottle of Moët & Chandon.
+
+The event will take place at Prestige Beach at 7:00 PM, where you'll enjoy a romantic ambiance with both ambient and live music.
+
+As an added benefit, guests who purchase a dinner package will have priority access to our exclusive Valentine's Day show on the beach that evening.
+
+Please note that we accept Ibero Cash, but Resort Credits are not valid for this event.
+
+Let me know if you are interested in one of these options.
+
+
+
+BALINESAS
+
+We count with Spaces for the Balinese N° 6, 7 & 8 for today. Each one has a cost of 500 MXN Pesos by the only use, 900 MXN Pesos with drinks included.
+
+Balinese Beds are subject to availability.
+Please keep in mind that unused reservations must be cancelled before 9:00 AM and also, no-shows will incur a 50% penalty fee, regardless of the booking method.
+
+ We offer options at both Lindo and Maya, being Solarium Beds and Regular White Beds located at the end of the pool.
+? The rental fee is $500 MXN for use only.
+
+? $900 MXN with drinks included being either 04 Coronas beers or 02 Coco Locos or 02 Piña Coladas.
+
+The beds are available for use from 7:00 AM to 7:00 PM.
+For cancellations made 24 hours or more in advance of the scheduled rental period, there will be no cancellation fee charged.
+For cancellations made less than 24 hours in advance of the scheduled rental period, 50% of the rental cost will be charged to the customer's room.
+Please let us know if you would like to proceed with a reservation or if you need any further information.
+We appreciate your understanding of our cancellation policy and hope that it will help to ensure a smooth and enjoyable rental experience for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CENA PRIVADA EN LA PLAYA
+Costo: $5,000 MXN
+ Incluye:
+? Mesa frente al mar (2 personas)
+
+? Menú especial del chef
+
+? Bebidas: vino tinto, vino espumoso, vino blanco, refresco o agua
+
+? Decoración romántica con rosas rojas
+
+
+PAQUETE DE ANIVERSARIO
+ Costo: $1,300 MXN
+ Incluye:
+? Decoración romántica en la habitación
+
+? Botella de vino espumoso Jacque de Reyes 750 ml
+
+? 6 fresas con chocolate
+
+? Una rosa decorada
+
+
+PAQUETE DE LUNA DE MIEL
+ Costo: $2,700 MXN
+ Incluye:
+? Decoración romántica en la habitación
+
+? Botella de vino espumoso Jacque de Reyes 750 ml
+
+? Ramo de 24 rosas
+
+
+DECORACIÓN ROMÁNTICA EN LA HABITACIÓN
+Costo: $1,100 MXN 
+ (Este paquete no incluye decoración con pétalos)
+ Incluye:
+? Corazón de madera
+
+? 6 fresas con chocolate
+
+? Velas decorativas con luz LED
+
+
+PAQUETE ROMÁNTICO EN LA HABITACIÓN
+ Costo: $2,100 MXN
+ (Este paquete no incluye decoración con pétalos)
+ Incluye:
+? 6 fresas con chocolate
+
+? Ramo de 12 rosas
+
+? Botella de vino espumoso Jacque de Reyes 750 ml en la habitación
+
+? Descubierta romántica en la habitación
+
+
+
+CORREO
+QUEJA POR CIERRE - INFORMATIVO
+Buenos días,
+Cómo informativo, se recibe mensaje vía APP Iberostar de parte del Sr. Scheller de la habitación 5145, mencionando lo siguiente: "Veo que la piscina para niños y la zona de chapoteo siguen cerradas. Reservamos este hotel por la zona de chapoteo para niños, y ha estado cerrada todo el tiempo que hemos estado aquí. Nuestro hijo de 2 años no ha tenido donde jugar en el agua. Espero que nos devuelvan el dinero."
+Agradecemos que nos informe acerca de la situaciónfarmra, haciéndole saber que estaremos dándole seguimiento con el área correspondiente. Nos comunicamos con Mariana y posteriormente con Samir de Star Camp, quienes nos confirman que el área Kangaroo si ha estado abriendo todos los días, en un horario de 10:00 hrs a 17:00 hrs., así mismo le hacemos saber la ubicación del lugar. 
+Minutos más tarde, el huésped nos comparte una foto diciendo que se encuentra en el lugar pero sigue cerrado, así mismo comenta que lleva más de tres días con cinta amarilla, adjuntando una foto en la que se observa que el huésped se encuentra en el barco pirata, por lo que le hacemos saber que pudo tratarse de una confusión de lugares, reiterándole la ubicación y horarios del área adecuada para la edad de su menor, no se recibe más respuesta por parte del hmalestuésped. 
+Así mismo, confirmamos con Pamela de Oficina de Mtto. el cierre del barco pirata, comentando se espera terminen los trabajos el día de hoy. 
+Saludos. 
+ACCESO EXTERNO
+Se recibe llamada a GS por parte del Sr. Hernáez de la habitación 3425 solicitando el acceso para el  Dr. Gustavo Chavarria de la aseguradora Assist card;  nos comparte que su hija Juana de 10 años de edad, quien pertenece a la habitación 3424; tiene malestar estomacal, agrega que ha vomitado durante toda la mañana; así mismo, nos menciona que el malestar inició posterior a acudir al restaurante Italiano la última noche, por lo que considera que la menor ingirió algo que le cayó mal.
+
+
+
+
+
+PUERTA ABIERTA PRINCIPAL
+Buenas tardes
+Alrededor de las 22 hrs, se recibe llamada a Guest Service por parte de la Srita. Karina de prevención informando que el Bellboy Isais Zacarías reportó que la puerta principal de la habitación 1604  se encontraba abierta. Observando que en el interior hay valores y posterior se procedió al cierre de la misma por parte del personal de prevención. Se verifica en sistema que la habitación está ocupada
+Quedamos al pendiente de lectura de chapa 
+Saludos. 
+
+SOLICITUD DE CAMBIO DE BLANCOS
+Buenas tardes 
+Sirva el siguiente escrito para futuras aclaraciones. 
+
+Se recibe llamada a GS por parte del Sr. Ruiz de la habitación 5517 solicitando cambio de blancos, ya que considera que las sábanas se sienten rasposas, de la misma manera, nos hace saber que sufre de alergia al suavitel, lo cual le ocasiona ronchas en el cuerpo.
+
+Primeramente, nos hemos mostrado preocupados por la situación, comentando que tenemos servicio médico con costo extra; así como también, con una farmacia, lo cual declina. Por otro lado, el huésped nos hace saber que de momento todo está bien y solicita se coloquen blancos sin enjuague con suavitel, en caso de ser posible. Le informamos que de momento, no contamos con blancos hipoalergénicos, no obstante, se verificará su solicitud. 
+
+Nos comunicamos con Mariana y Nayari lavandería, quienes nos comentan que los blancos son procesados con suavitel durante el enjuague. De la misma manera, nos informa Brenda All comentando que no cuentan con blancos hipoalergénicos. 
+
+Cabe mencionar que pese a que no contamos con lo solicitado, se manda cambio de blancos a solicitud del huésped; lo cual se programa a las 16:00 hrs. 
+
+Sin más por el momento, quedamos al pendiente de sus comentarios 
+
+Saludos. 
+
+Le ofrecí servicio médico indicando que tiene costo adicional pero es declinado por el huésped mencionando que él no se ha sentido mal y su hija ya esta mejor, le hice saber los horarios de la farmacia así como de nuestro centro médico y nuestra extensión en caso de que requieran mayor asistencia, así como le hice saber de el costo que podría aplicarse por la limpieza especial de los blancos en caso de reincidir,
+
+QUEJA POR LIMPIEZA
+
+Buenos días, 
+
+Se recibe llamada de la Sra. Wilson de la habitación 1812 solicitando que no se le realice la limpieza el día de hoy a la habitación de su hijo 1805, ya que se encuentra enfermo y no desea ser molestado. Tratamos de indagar sobre su solicitud, cuestionando acerca de los síntomas de su hijo a lo que la huésped se cierra al diálogo y no da mayor información 
+
+Le comentamos a nuestra huésped que contamos con un servicio médico con costo extra. Le hacemos saber que podemos transferirla para que le brinden más información, a lo que la huésped declina comentando que por ahora no considera que sea necesario ya que solo desea descansar. 
+
+Nos despedimos no sin antes reiterarnos a sus órdenes así como brindando horarios de la farmacia.
+
+GS//RRPP: Pendientes a solicitudes y realizar llamada de cortesía en relación al estado de salud del huésped. 
+
+Saludos, 
+
+SITUACIÓN ALCOHÓLICA - CONTACTO POR ESTADO
+
+Buenas tardes
+Como seguimiento, nos hemos contactado con el Sr. Navarro, quien nos expresa que se siente apenado por la situación que experimentó anoche. Le hemos comunicado nuestra preocupación por su bienestar, ofreciéndole la posibilidad de recibir atención médica o una dieta blanda. No obstante, el Sr. Navarro ha declinado estos servicios, ya que nos comentó sentirse bien el día de hoy.
+Reiteramos nuestra disposición para asistirle con Guest Service o su concierge más cercano, en caso de que requiera cualquier tipo de apoyo adicional.
+
+Sin más, quedo a sus órdenes.
+
+RUIDOS - CONTACTO POR ESTADO
+Buenos días.
+Como seguimiento al reporte anterior, nos hemos puesto en contacto con la Sra. Straetz para indagar sobre los ruidos que mencionó haber escuchado la noche pasada. La huésped se mostró tranquila, señalando que logró dormir sin inconvenientes. Comentó que alrededor de las 2:00 AM escuchó ruidos provenientes del exterior, comentó que no se trataba de una fiesta, sino de un ruido que le impidió dormir. mencionó que posteriormente los ruidos cesaron y no volvió a escucharlos, agradeciendo la intención de nuestra llamada.
+Reiteramos nuestra disposición para brindarle cualquier tipo de apoyo adicional, con Guest Service o mediante su concierge más cercano, en caso de que lo requiera.
+Sin más, quedo a sus órdenes.
+
+A/C - CONTACTO POR ESTADO
+Buenos días,
+Como seguimiento al reporte anterior, nos hemos comunicado con la Sra. Melgar respecto a la avería del A/C. Nos informó que, desde que se envió la asistencia, no ha vuelto a utilizar el aire acondicionado, optando por ventilar la habitación con el ventilador de techo y abriendo las puertas del balcón por la noche para mayor comodidad.
+Al indagar si la avería había sido resuelta, la huésped nos indicó que recibió apoyo, pero no consideró necesario usar el A/C nuevamente. Se mostró tranquila y sin molestias, señalando que se siente bien en su habitación.
+Reiteramos nuestra disposición para ofrecer cualquier asistencia adicional a través de Guest Service, en caso de que lo requiera.
+Quedo a sus órdenes.
+Saludos cordiales.
+
+L&F - ENCONTRADO YA RECOLECTADO V1
+
+Buenas tardes.
+
+Se realiza llamada de cortesía a la habitación 6017 para poder saber si todo se encuentra en orden y proporcionar el status de búsqueda de sus lentes.
+Nos toma la llamada el Sr Galleano, quien nos comenta que su esposa ya encontró los lentes.
+Menciona además, que todo se encuentra bien en su habitación por el momento y nos agradece por la atención recibida durante su estancia.
+
+Se le invita a los huéspedes que si necesitan algo más que no duden en mandar un mensaje por la APP de Iberostar o llamar a Guest Service a la ext 0 y con mucho gusto los atenderemos.
+
+Saludos cordiales.
+
+L&F - ENCONTRADO YA RECOLECTADO V2
+
+Buenas tardes,
+
+Cómo informativo, se realiza llamada de cortesía a la habitación 5376, siendo atendido por el Sr. Linker a quien le hacemos saber que el motivo de nuestra llamada es con respecto a un artículo extraviado el cual había sido reportado y posteriormente encontrado. Consultamos además, si dicho artículo ya había sido recolectado.
+
+El huésped agradece el seguimiento informándonos que ya han reclamado el artículo en mención. Agradecemos que nos informe la situación reiterándonos a sus ordenes por cualquier asistencia adicional. El huésped agradece finalizando la llamada. 
+
+Saludos.
+
+
+
+
+
+
+SERVICIO MÉDICO - SOLUCIÓN
+
+Buenos días.
+
+Para su conocimiento, hemos realizado una llamada de cortesía, siendo la Sra. Román quien nos atendió. Durante la conversación, indagamos sobre su estado de salud y nos informó que se encuentra en mejor condición que el día anterior, y que, por el momento, no requiere de dieta blanda ni asistencia médica adicional.  
+
+Agradecemos su respuesta y aprovechamos para reiterar nuestra disposición como Guest Service, así como RRPP para cualquier asistencia adicional que pueda necesitar.  
+
+GS || RRPP: Favor de atender futuras solicitudes. 
+
+Saludos.
+
+CAMBIO DE PLANTA
+
+Buenas tardes,  
+
+Se ha recibido nuevamente mensaje por parte del Sr. Coppens vía chat, mencionando su solicitud de cambio de habitación debido a que, por su edad, considera que tres pisos son demasiados. En un inicio se le ofreció una habitación con dos camas dobles en un piso inferior, pero él indicó que necesitaba una con cama King-size.  
+
+Después de revisar con mis colegas, se le informó que la única opción disponible con cama King-size manteniendo su categoría actual sería en el piso intermedio, a partir del viernes y para el resto de su estancia.  
+
+El huésped solicitó aclaración sobre si la habitación estaría disponible hasta el viernes o si podría cambiarse el viernes para el resto de su estancia. Se le confirmó que el cambio se realizaría el viernes y que podría permanecer en dicha habitación hasta su salida.  
+
+Finalmente, el Sr. Coopens decidió permanecer en su habitación actual y agradeció la asistencia.  
+
+Quedamos atentos a cualquier otra solicitud.  
+
+Saludos cordiales,  
+
+MAL OLOR - ASISTENCIA
+
+Buenas tardes,
+Se ha recibido una llamada en el departamento de Guest Service del Sr. Reininger, quien se encuentra en la Hab 5009. El huésped solicita asistencia con la limpieza, ya que ha identificado un olor muy fuerte dentro de su habitación, describiéndolo como "tóxico", lo que le impide respirar a gusto.
+Tras indagar sobre el origen del problema, el huésped menciona que considera que el olor proviene del alcantarillado, específicamente del baño de la habitación.
+De manera inmediata, nos disculpamos con el huésped por los inconvenientes causados y le ofrecemos la atención de nuestro equipo de mantenimiento para abordar la situación.
+Se ha registrado la avería en el sistema:
+
+
+También solicitó limpieza del día ya en sistema:
+
+
+
+Nos comunicamos con Daniel de SP quien toma conocimiento de este asunto.
+
+GS || RRPP || SP: Favor de dar seguimiento a la situación.
+MTTO: Favor de asistir a revisar el baño
+ALL: Favor de realizar la limpieza correspondiente.
+
+
+QUEJA POR RUIDOS DE ALARMAS
+
+
+Buenas tardes.
+
+Se recibe mensaje a GS por parte de la Sra. Wilson de la habitación 3829 reportando ruidos de la alarma de incendios, comenta que sucedió alrededor de la 1:10.  La huésped mencionó que esto le ocasionó inconvenientes, ya que tiene una hija que necesita descansar.
+
+Primeramente, le ofrecemos sinceras disculpas por lo sucedido comentando que nos brinde la oportunidad de verificar con prevención sobre lo reportado, asimismo, le hacemos saber que ya contamos con el reporte por lo que el equipo correspondiente se encuentra trabajando en ello para evitar que se suscite nuevamente. 
+
+Nos comunicamos con Lina Ruiz de prevención vía radio informando lo sucedido, Nos indicó que, en este momento, están al tanto de la situación en el área del edificio 38
+
+Posteriormente, en la misma interacción, nos comenta que se trata de una avería, la cual ya se encuentra en revisión. 
+
+GS || RRPP: Realizar llamada de cortesía para saber si pudieron descansar.  
+
+Saludos
+
+SERVICIO MÉDICO - SOLICITUD
+Buenas tardes.
+Se recibe llamada a Guest Service por parte de la Sra. Israel, habitación 1712, solicitando servicio médico. Al indagar, nos comenta que su hija ha presentado deshidratación y dolor de garganta.
+Le informamos a nuestra huésped que contamos con un servicio médico con costo adicional, lo cual aceptó. Inmediatamente, nos comunicamos con la Dra. Claudia Uribe, transfiriendo la llamada sin más detalles al respecto.
+Minutos después, la Sra. Israel nos vuelve a contactar solicitando un carrito para llegar al centro médico.
+GS || RRPP: Favor de contactar a la huésped para verificar su estado de salud.
+Saludos.
+DIETA BLANDA
+Buenas noches 
+
+Se recibe llamada a Guest Service de la sra Santana expresando que se encuentra enferma de gripe y con fiebre y no ha logrado salir de la habitación para poder comer algo ya que tenían una reserva en el Japonés y no logró asistir ella, pero su pareja el sr Rodríguez al terminar su cena se acercó al buffet la plaza para retirar alimentos (menciona que era una pizza) pero un colaborador (no proporciona nombre) le retiró los alimentos de la mano y le menciono que no podia retira la comida. 
+
+Me disculpo por ella y le mencioné que por políticas de higiene no está permitido el retiro de alimentos, entendemos que no son las formas de transmitir el mensaje y que tomaremos nota para que no suceda nuevamente. 
+
+De igual forma le mencionamos que con ayuda de RRPP se ha gestionado la entrega de una dieta blanda con arroz y pollo a la plancha para que pueda comer, esto como gesto de cortesía ya que no contamos con room service pero por expresarnos que se encuentra enferma se le enviará.
+
+La huésped menciona que no desea comer eso, pero le reiteramos que al no contar con room service se le puede asistir solamente con dieta blanda como opción para que pueda comer. 
+
+De igual forma se le ofrece el servicio médico con costo extra mencionando que ya cuenta con medicamentos (no mencionar cuales) y declina. 
+
+La huésped no muy convencida agradece, le deseamos pronta recuperación y quedamos a sus ordenes en GS las 24 h
+
+
+
+CANCELACIÓN THE CLUB
+
+Buenas noches.
+
+Se recibe llamada por parte de la Sra López, quien solicita cancelar una serie de masajes faciales por parte del equipo de The Club. Siendo el motivo único la huésped nos indica que ya había tomado el mismo tipo de masaje antes de su llegada a la propiedad y por ende no le gustaría repetirlo. La huésped desea que se cancelen dichos masajes o contactarse con ella para confirmar la cancelación del mismo.
+
+Quedamos atentos a sus comentarios.
+
+Saludos cordiales. 
+
+AVERÍAS - SOLUCIÓN
+
+Buenas tardes,
+
+Para su conocimiento, nos hemos comunicado con el Sr. Altanibaz, a quien consultamos sobre el estado de su habitación y si las averías previamente reportadas habían sido resueltas. Posteriormente, nos ha confirmado que todo se encuentra en orden en su habitación y ha expresado su agradecimiento por la asistencia proporcionada.
+
+Asimismo, hemos observado que nuestros huéspedes tienen programada su salida para el día de mañana, por lo que hemos ofrecido asistencia para la recolección de su equipaje, tanto de la habitación principal como de la habitación acompañante.
+
+Finalmente, reiteramos nuestra total disposición para ofrecer cualquier asistencia adicional a través de nuestro servicio de Guest Service, en caso de que lo requiera.
+
+Quedo atento a sus comentarios.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saludos cordiales.
+
+Hago de su conocimiento la solicitud de reporte por parte de los huéspedes de la habitación 4103
+
+Los huéspedes, el Sr. Johanel y su acompañante, se acercaron indicando que ayer, antes de salir de la habitación, dejaron $180 USD dentro de su cangurera, la cual se encontraba sobre la mesa junto al televisor. Al regresar, solo encontraron $40 USD, con un faltante de $140 USD.
+
+El huésped sospecha que el dinero pudo haber sido tomado por la persona que ingresó a la habitación para dejar los blancos extras que habían solicitado.
+
+Se le informó al huésped que nuestro personal es de total confianza y se le resaltó la importancia de utilizar la caja de seguridad. También se le explicó el protocolo a seguir en estos casos. Inicialmente, el huésped se mostró cerrado a seguir el proceso completo y solo solicitó la lectura de chapa para verificar quién había ingresado.
+
+Me disculpé por su situación e insistí en la necesidad de seguir el protocolo completo para poder realizar la lectura. Aunque el huésped no se mostró totalmente conforme, accedió e indicó que solicitaría que se realizará el protocolo más tarde, ya que salían hacia Playa del Carmen y regresaron alrededor de las 20:00 horas.
+
+El huésped agradeció y se retiró.
+
+RRPP: PDT realizar protocolo 
+
+Saludos.
+
+
+
+
+DOLOR ESTOMACAL - SERVICIO CON DIETA BLANDA
+
+Buenas noches. 
+
+Se recibió una llamada por parte del Sr. López, huésped de la habitación 5032, quien informó contar con dolor estomacal. Al indagar sobre la situación, mencionó que había comido en el restaurante La Laguna el día de hoy por la tarde. Nos disculpamos por lo sucedido, haciéndole saber que nuestros platillos son elaborados con los más altos estándares de calidad y con el mayor cuidado en su preparación.
+Le informamos al nuestro huésped sobre la disponibilidad de servicio médico, el cual tiene un costo adicional ya que se trata de una empresa externa, opción que declinó, ya que mencionó estar tomando la medicación correspondiente. Subiendo únicamente:
+? 01 Caldo de pollo
+Hemos subido la orden correspondiente al sistema en espera de su entrega.
+
+GS || RRPP: Favor de contactar a la huésped para verificar su estado de salud.
+
+Saludos cordiales.
+
+CÓDIGO BLANCO - SOLICITUD
+
+Buenas tardes.
+
+Se recibe llamada por parte del Sr. McGinnis desde la Hab. 6203 solicitando vendajes y banditas, preocupados por el estado de salud, tratamos de indagar al respecto de su solicitud, a lo que la huésped nos informa que su esposa ha tenido un corte ligero en el dedo del pie izquierdo en la playa.
+
+Le informamos a la huésped que para su solicitud era necesario que se acercara el departamento de Prevención para realizar la limpieza, así mismo le hacemos saber que contamos con un servicio médico pero al ser una empresa externa cuenta con un costo extra, a lo que la huésped declina comentando que solo requieren de la limpieza. Le informamos que nuestros compañeros se acercarán a la habitación, a lo que agradece y finaliza la llamada. 
+
+Le damos aviso a Mary Prevención y así como a Alexis de RRPP
+
+GS || RRPP: Realizar llamada de cortesía para verificar que todo se encuentre en orden. 
+
+Saludos. 
+
+QUEJA POR SERVICIO EN RESTAURANTES
+
+Buenas noches.
+
+Cómo informativo, se recibió mensaje en la aplicación por parte de la Sra. Block quejándose de lo siguiente: "Nos sentimos muy decepcionados con el servicio, tardaron mucho en darnos una mesa. Luego, no se acercó ningún camarero a traernos bebidas, cuando fuimos a recoger un postre después de nuestro primer plato, nuestra mesa ya estaba ocupada por un nuevo cliente... le hablamos al camarero, solo se disculpó con el nuevo cliente y estuvo hablando largo rato con él. Nosotros nos quedamos allí con nuestros platos, finalmente, tuvimos que dejar nuestra comida. Esto no está bien"
+
+En primer lugar, nos hemos disculpado con el huésped por la experiencia vivida en el restaurante, explicándole que dicha situación no refleja el nivel de servicio que nos caracteriza. Le hemos asegurado que tomaremos en cuenta sus comentarios con el fin de mejorar la calidad de nuestro servicio y brindar una experiencia satisfactoria. Los comentarios serán enviados a las áreas correspondientes, ya que nuestra prioridad es garantizar su comodidad y bienestar durante su estancia con nosotros.  
+
+De momento no se ha recibido respuesta por parte de la huésped. 
+
+GS || RRPP: Favor atender peticiones futuras.
+
+Saludos.
+
+QUEJA POR APARTADO DE CAMASTROS
+
+Buenos días. 
+
+Se recibió mensaje por la APP siendo los Sres. Barkman & los Sres. Fast de la Hab. 1245 y 1246 simultáneamente, expresando su descontento ya que les han retirado sus pertenencias de los camastros a causa del tiempo de espera en el servicio en los centros de consumo ubicado en las piscina, ambos han expresado lo siguiente: "Nos dejaron sin nuestros objetos y camastros después de ir por café, lo cual tomó más de 30 minutos debido a la falta de opciones cercanas, y al regresar descubrimos que nuestra zona ya estaba ocupada. Nos molesta profundamente que hayan tocado nuestras pertenencias sin previo aviso, mientras que los objetos de otras personas, que llevan más de 2 horas ocupando el camastro, no se han movido. El personal que las retiró fue muy grosero. Este sistema es totalmente inaceptable y el servicio ha caído drásticamente desde nuestra última visita, dejándonos muy decepcionados." 
+
+Nos hemos disculpado por los inconvenientes ocasionados, agradeciendo a la huésped por habernos informado sobre la situación, y le hemos informado que se dará el debido seguimiento con el área correspondiente. Después confirmó recuperar sus pertenencias, pero solo ha encontrado dos espacios disponibles en cuanto a los camastros, requiriendo dos adicionales para acomodar a las cuatro. 
+
+Nos hemos comunicado con Guadalupe de RRPP para solicitar a Pool Concierge acercarse en cuanto a la solicitud. Quienes han aceptado de manera tranquila el apoyo que se les brindará, quedando sin más respuesta de su parte hasta el momento.
+
+Quedamos atentos a sus comentarios.
+
+Saludos.
+
+
+INFORME - DISCREPANCIA DE LAVANDERÍA
+
+Buenas tardes.
+
+Se recibe llamada de parte de Carlos del departamento de Valet quien nos informa que hay una discrepancia en el servicio solicitado por nuestro huésped.
+
+Se realiza llamada de cortesía sin éxito, para informar a nuestra huésped.
+
+Se ha enviado mensaje por App.
+
+GS // RRPP: Llamada de cortesía para informar a nuestra huésped. 
+
+Saludos cordiales.
+
+
+CAMA ROTA - EJEMPLO DE BUENA REDACCIÓN
+
+Buenas tardes,
+La Sra. Lemire se comunicó vía telefónica para reportar un desperfecto en el funcionamiento del sofá cama en su habitación. Al indagar más al respecto, indicó que el problema se encuentra en el mecanismo que permite convertirlo en cama, lo cual ha provocado también un leve daño en la tela.
+Cabe mencionar que la huésped realizó su check-in el día 05 de abril y, hasta el momento, no se había recibido ningún reporte relacionado, ya sea por parte de los huéspedes o del equipo de ama de llaves durante las limpiezas rutinarias. Se le recordó amablemente la importancia de reportar cualquier desperfecto al inicio de la estancia, ya que, de no hacerlo, puede interpretarse como un daño ocurrido durante su alojamiento.
+Minutos después, el departamento de ama de llaves confirmó que se trataba de un problema en los resortes del sofá. En consecuencia, se procedió al reemplazo por una cama supletoria, lo cual fue aceptado y aprobado por la huésped.
+
+QUEJA POR SERVICIO EN HASHIRU
+GS / RRPP: Favor de mantenerse atentos ante posibles requerimientos adicionales.
+Buenas noches
+
+Recibimos un mensaje a través de la aplicación de la habitación 4108, el Sr. Tuncer nos ha reportado varios puntos importantes sobre su experiencia en la cena en el restaurante Japonés "Hashiru".
+1. Descripción engañosa del restaurante:  El Sr. Tuncer menciona que no se les informó que el restaurante es de estilo teppanyaki (al estilo de Estados Unidos) y no japonés tradicional.
+Al sentarse, encontraron a un chef ruidoso y teatral, lo que generó un ambiente inadecuado para su bebé de un año, quien se asustó por los gritos y golpes en la parrilla.
+El huésped sugiere que se indique claramente que el restaurante es de estilo teppanyaki para que futuros huéspedes puedan tomar una decisión informada.
+
+2. Preocupaciones de Seguridad:  El Sr. Tuncer observó trucos peligrosos por parte del chef, incluyendo malabarismos con utensilios afilados que cayeron varias veces.
+También relata un incidente donde invitaron a una joven del público a participar y casi se quema con la parrilla caliente.
+El Sr. Tuncer considera que estas prácticas son muy peligrosas y no deberían permitirse, especialmente con niños presentes.
+
+3. ) Prácticas antihigiénicas:   El Sr. Tuncer reporta varias preocupaciones sobre la higiene:
+? El chef colocó un huevo crudo en su cabeza antes de cocinarlo.
+? La misma espátula se utilizó para manipular pollo crudo, servir arroz y cascar huevos sin limpiarla entre usos.
+? La misma espátula fue usada para preparar pollo crudo, carne de res casi cocida y arroz, lo que considera extremadamente antihigiénico y una preocupación seria para la seguridad alimentaria.
+
+4. Trato irrespetuoso con la comida:  El huésped se sintió profundamente perturbado por la forma en que se manejó la comida durante la función.
+Menciona ejemplos como dar forma de pollo al arroz, golpearle el trasero y fingir decapitarlo, además de arrojar comida a los clientes que terminaba en el suelo.
+El Sr. Tuncer considera que el desperdicio de comida es inaceptable por falta de respeto a los alimentos.
+También compartió que, criados con valores islámicos, se les enseñó a tratar la comida con respeto, y cree que muchos mexicanos comparten valores culturales similares
+El Sr Tuncer, en conclusión, indica que esta experiencia gastronómica fue engañosa, insegura, antihigiénica e inapropiada. 
+Recomienda encarecidamente que se revise tanto la presentación de este restaurante a los huéspedes como el comportamiento y las prácticas del personal que trabaja allí. 
+El Sr Tuncer confía en que el hotel valora la comodidad, la seguridad y la sensibilidad de todos sus huéspedes, y espera que se tomen medidas inmediatas para abordar estos problemas.
+
+Ya le hemos expresado al Sr. Tuncer nuestro pesar por lo sucedido y le hemos informado que compartiremos sus comentarios con los departamentos correspondientes. Quedamos atentos a los comentarios de nuestro huésped.
+
+Adjunto captura de pantalla del mensaje del Sr Tuncer.
+
+
+
+
+
+
+
+
+
+
+FARMACIA EXTERNA
+Se recibe llamada por parte de la Sra. Fuentes de habitación 3348 solicitando cotizar medicamentos con una farmacia externa los cuales fueron recetados tras su consulta con médico externo. Le hemos asistido con la cotización y pedido con Farmacia "Puerto Morelos" para el siguiente medicamento. 
+
+Vylkor (Ondansetron) 8mg caja con 10 tabletas - 525MX / 31 USD 
+Hidrasec 100 mg caja con 9 cápsulas - 550MX / 33 USD 
+03 Pedialyte de manzana 500ml - 50 MXN / 3 USD c/u 
+TOTAL: 1,225 + 300 de envío - 1,525MX / 90 USD 
+Se da informe a Nelly (caseta ingreso) y a Frida (Recepción). 
+GS // RRPP: Confirmar entrega de farmacia.
+Saludos,
+ACCESO DOCTOR EXTERNO
+Buenos días,
+Hemos recibido una llamada por parte de la Sra. Mónica, Hab. 3348 para solicitar el acceso al siguiente doctor externo:
+Nombre de la persona que ingresa: LUIS JAVIER VALADEZ, UUF047K
+Placas/Automovil: TOYOTA CHASER, UUT257J
+Huésped a atender. ALURRALDE SOLANGE
+Razón de consulta: Vómito y Mareos
+Hora: 5:20 - 5:45 PM
+Personas informadas: (Elizabeth) PREV caseta huéspedes, (Aida) Prevención hotel,( Frida) Recepción, (Yael) RRPP.
+Le recordamos a la huésped, sobre nuestro servicio médico con costo extra, así mismo se le mencionaron  nuestros horarios de farmacia interna.
+Quedamos atentos a sus comentarios
+Saludos.
+
+
+ACTIVACIÓN DND
+Buenas noches, 
+Se recibe llamada por parte de Daniel Relaciones Públicas solicitando activación de DND para habitaciones 6470 y 6471 informando que los huéspedes se acercaron personalmente con el compañero a solicitarlo ya que no desean recibir llamadas, comentando que le han estado marcando compañeros de The Club desde muy temprano, por lo que no desean ser molestados el resto de su estancia. 
+Se confirma activación de DND para el resto de su estadía, finalizando el día 21.04. 
+Quedamos atentos a cualquier modificación que soliciten.
+Saludos,
+
+QUEJA POR RUIDO DE PAVO REAL - SOLICITUD
+
+Buenas noches.
+Se recibió una llamada del por parte de la Hab. 3952 siendo la Sra. Zanutigh, informando que en el balcón de su habitación se encuentra un pavo real haciendo ruidos, lo cual le impide descansar adecuadamente.
+Nos disculpamos con el huésped y le aseguré que enviaremos de inmediato a nuestro equipo de mantenimiento para revisar la situación. El huésped agradeció la asistencia otorgada.
+Nos comunicamos con el Operador Enrique vía radio quien se acercará a la habitación, subiendo la avería para realizar el pendiente correspondiente.
+GS || RRPP: Llamada de cortesía para verificar si pudo pasar la noche.
+Saludos.
+
+FILTRACIÓN
+
+Buenos días.
+
+Se recibe llamada por parte de la Sra. Quinney desde la Hab. 6443, mencionando que cuenta con una filtración en su habitación por la cuál solicita asistencia de mantenimiento. Preguntamos más detalles al respecto, cómo dónde y en qué área está afectando, sin embargo no nos proporciona más detalles únicamente indicando tener un charco de agua en la sala de estar sin poder encontrar la fuente de orígen.
+Hemos enviado la asistencia junto con limpieza correspondiente ya en sistema:
+
+Cabe recalcar que no se proporcionaron más detalles al respecto.
+GS || RRPP: Favor de estar al pendiente y contactarse con la habitación.
+
+
+QUEJA POR HORARIO DE TRANSPORTACIÓN
+
+
+Saludos.
+Buenas tardes.
+Sírvase cómo informativo, vía APP Iberostar de parte de la Sra. Olvera de la habitación 6063, mencionando lo siguiente: "Me llamaron para confirmar la transportación, pero yo ya había solicitado que fuera a las 10:20. Ahora me dicen que es a las 9:30, y me parece muy anticipado. Yo confirmé con antelación la hora de mi transporte y sólo estoy pidiendo que respeten lo que solicité. Viajo con dos niñas pequeñas y no pueden esperar tanto tiempo en el aeropuerto. Siento que W2M asigna los horarios según lo que les conviene, no con base en nuestros vuelos."
+Nos hemos disculpado con la huésped. Agradeciendo que nos informe acerca de la situación, haciéndole saber que sería revisado con el área correspondiente. Hemos verificado con Cynthia y Emma de Star Prestige, quienes nos confirmaron que W2M determina la planificación un día antes de las salidas, sin opción de modificar el horario asignado.
+Por ello, se le reiteró la información anteriormente dicha y se le recomendó mantener la hora previamente asignada para asegurar el servicio. Dejando a los departamentos correspondientes para cualquier atención que puedan solicitar. La huésped agradeció sin novedades al respecto.
+Quedo al pendiente de sus comentarios.
+
+Saludos.
+
+SOLICITUD DE FARMACIA EXTERNA
+Buenas noches.
+
+Se recibe llamada a GS  por parte del Sr. Schneider de la habitación 6444 solicitando 01 agua destilada con costo de $385 MXN; la cual es gestionada con Farmacia Puerto Morelos 
+
+Se le informa a caseta de acceso a huéspedes Hipólito y a Hugo de recepción Maya. 
+
+GS//RRPP: Favor de confirmar la entrega
+ 
+Saludos cordiales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUEJA DE ACCESO Y MODALIDAD FIRST COME & FIRST SERVED
+
+Buenos días,
+
+Me dirijo a ustedes para aclarar el sistema de "First Come, First Served" en nuestros restaurantes, con el fin de que puedan comunicar esta información de manera efectiva a nuestros huéspedes y evitar malentendidos.
+
+Nuestros restaurantes tienen una capacidad limitada para recibir a un gran número de huéspedes simultáneamente. Por ello, el acceso se realiza por orden de llegada. Una vez que el aforo se completa, se activa una lista de espera. Es importante destacar que no se establece un tiempo fijo para la espera, ya que dependemos del ritmo en que los huéspedes dentro del restaurante consumen sus alimentos. El tiempo máximo estimado para disfrutar de la comida es de una hora y 45 minutos. Si los huéspedes exceden este tiempo, se les solicitará amablemente que desocupen la mesa para permitir que otros huéspedes hagan uso de ella.
+
+Utilizamos una aplicación para notificar a los huéspedes cuando su mesa está lista. No siempre es necesario que esperen dentro del restaurante. Se les otorga una tolerancia de 10 minutos para presentarse una vez que se les llama, la cual puede extenderse a 15 minutos a discreción del capitán. Esta es la razón por la que en ocasiones los huéspedes observan mesas vacías y pueden interpretar erróneamente que se les está negando la entrada.
+
+Respecto a los socios, contamos con lugares asignados en estos restaurantes. A ellos también se les informa sobre la política de tiempo de tolerancia, lo cual, en ocasiones, puede contribuir a los malentendidos.
+
+Para grupos de más de 6 personas, solicitamos que la mayoría de los miembros de la familia estén presentes al momento de la llegada. Por ejemplo, si solo llegan 2 personas para un grupo de 8 y el resto llega en horarios muy dispersos, esa mesa podría estar ocupada por un solo grupo durante casi todo el horario de servicio, impidiendo que se utilice para más clientes.
+
+Por último, quisiera ponerme a su disposición para cualquier duda que pueda haber quedado respecto al tema
+
+Saludos
+
+
+
+
+QUEJA POR RUIDOS - SOLICITUD
+
+Buenos días.
+
+Se recibió llamada alrededor de las 2:47 AM a Guest Service por parte de la Sra. Espinoza de la Hab 5247 reportando percibir ruidos provenientes en la planta superior o en la habitación contigua siendo de alguna discusión, solicitó verificar si todo se encontraba en orden.
+
+Le hemos agradecido el reporte realizado, comentando que enviaremos asistencia por parte de Prevención para verificar la situación. Nos comunicamos con Rosales de Prevención vía radio, quien acudió al área para realizar la inspección correspondiente.
+
+Minutos después, nos comenta que se trataba de la Hab. 5276, dónde una chica se encontraba en estado etílico mientras sus padres intentaban hacer que guardara la calma. Siendo Berenisse quien se comunicó con la hab, comentando que cesará el ruido. Berenisse GN toma conocimiento de esta situación.
+
+GS || RRPP: Favor de contactar para ver si pudieron pasar la noche.
+
+Saludos. 
+
+
+
+
+
+
+
+CORREOS AJENOS
+AVERIAS VARIAS
+Buenas noches, 
+23:25 hrs Se recibe mensaje por medio de la App de parte del Sr. Heinemann de la habitación 5273 reportando que su habitación está muy fría y no puede subir la temperatura, indica que ya había solicitado que se revisara pero aún no funciona. Le hemos ofrecido disculpas y le preguntamos si puede acercarse un técnico, el huésped acepta y enviamos a Mantenimiento para poder revisarlo. El operador se acercó a revisarlo comentando que se encuentra funcionando y le dejó la temperatura a 25°C sin embargo el huésped nuevamente envía mensaje indicando que en cuanto el operador dejó la habitación empezó a fallar nuevamente. Nos indicó que ya se encontraba en 22°C y aún estaba muy frío por lo que si no podía arreglarse estaría solicitando un cambio de habitación. Le hacemos saber que enviaremos nuevamente al técnico para poder revisarlo y en caso de no tener solución también estaríamos revisando la disponibilidad de otra habitación. 
+Se envía a Mantenimiento a revisar y nos pide verificar una habitación vacía para poder realizar el cambio del display, se verifica con Charly de Recepción y se toma de la habitación 5252. Se realizó el cambio quedando funcionando y el huésped nos confirma por medio de la app que ya ha quedado arreglado por lo que ya funciona normal agradeciendo mucho la asistencia. Le agradecemos por confirmarnos deseándole una buena noche. Informamos a Charly de Recepción que quedó arreglado el display.
+RRPP: Favor de apoyarnos si es posible con una amenidad de disculpas. 
+Mantenimiento: De su apoyo para verificar lo sucedido desde la primera revisión del display. GS Montserrat Rangel
+
+
+
+
+
+
+
+
+
+
+
+
+COMUNICACIÓN POR LA APP
+Buenas noches 
+
+Como seguimiento, por la tarde se solicitó enviar un mensaje de cortesía por parte de Miguel RRPP, solicitando que nuestra huésped se acerque a escritorio o bien comunicarse a la extensión 8461 para revisar el tema de su reserva de esta noche. 
+
+A través del chat la huésped nos solicitó modificar el horario de su reserva, debido a que llegarían media hora tarde; le solicitamos que nos brindará la oportunidad de poder verificar si era posible realizar el cambio; compartiendo las políticas de cancelación y tiempo de tolerancia para la reserva. Posteriormente, nos informa que se ha acercado con la concierge comentando lo siguiente: "La concierge no ha entendido tampoco". 
+
+Cabe mencionar que previamente se le informó a Andrea RRPP sobre la situación comentando que desconocía el motivo del mensaje de cortesía que le fue enviado por la tarde; dado que su compañero no se encontraba en turno. Es importante hacer mención que cuando nos solicitan un mensaje de cortesía antes de brindar respuesta, le notificamos al concierge de edificio y/u oficina que los huéspedes han respondido, esto con la finalidad de evitar brindar una información errónea. 
+
+Por nuestra parte, estaremos al pendiente de brindar un mejor servicio de atención a través de nuestro chat, asistiendo de la mejor manera posible a nuestros huéspedes; no obstante, solicitamos de su amable apoyo para que todo el equipo esté al tanto de los seguimientos de los huéspedes, para facilitar la comunicación cuando se envíen mensajes de cortesías y estos sean respondidos. 
+
+Le hemos enviado un mensaje ofreciendo disculpas por lo sucedido y reiterandonos a sus órdenes.  
+
+Saludos. 
+
+
+Jenny GonzálezGuest Service Supervisor de 24 Hrs. Guest Service
+
+INCIDENCIA SHOWS ANIMACIÓN
+
+Buenas tardes. 
+
+Hago de su conocimiento que el día de hoy se acercó el Sr. Hammonds al escritorio de RRPP Lobby Mar, para dejarnos sus comentarios respecto al equipo de Animación. 
+
+El Sr. Hammonds comenzó diciéndonos que disfrutó mucho sus vacaciones y recibió una muy buena atención por parte de todo el personal. Sin embargo, nos comentó que estaba muy decepcionado del equipo de Animación, debido a que desde su perspectiva, el show que realizan en la piscina es muy inapropiado para un hotel que dice ser familiar. Nos informó que el equipo de animación realiza bailes muy sexualizados, donde entre compañeros se dan nalgadas o se tocan sus partes íntimas. Además, mencionó que el personal de "Coco Bongo" también es parte de estas dinámicas. Este tipo de show le resultó muy incómodo al Sr. Hammonds debido a que está viajando con sus hijas menores de edad. El nos comentó que podría entender que este tipo de show se diera si solo hubiera adultos en el hotel, pero que en varias ocasiones tuvo que retirar a sus hijas de la piscina debido a lo inapropiado que son los bailes que realiza el equipo de Animación. 
+
+Le agradecimos al Sr. Hammonds que se acercara a nosotros a expresarnos sus comentarios, los cuales les daríamos la debida importancia y los pasaremos a los departamentos correspondientes, ya que para nosotros es muy importante que todos los huéspedes se sientan cómodos y disfruten sus vacaciones con nosotros. Además, reforzamos que somos un hotel familiar y que le daríamos seguimiento pertinente a la situación.
+
+El Sr. Hammonds agradeció ser escuchado, nos mencionó que a lo largo de su estancia la han resuelto los percances que ha tenido y que deseaba externarnos su opinión, y no dejar un mal review del hotel. Nos despedimos poniendo a su disposición los departamentos de GS/RRPP, el huésped se retiró agradeciendo la atención recibida.
+
+Animación: Favor de verificar lo sucedido.
+
+Saludos cordiales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buenas noches,
+
+00:35 hrs. Se comunica la Sra. Graca a Guest Service reportando que se encuentra preocupada ya que ha pasado una hora desde que se separó de su mamá la Sra. Barreira, registrada en la habitación 1726 y no le atiende las llamadas, se ha acercado a su habitación sin respuesta y tampoco atiende el teléfono de la habitación, sólo desea asegurarse de que haya llegado a la habitación bien.
+
+Indagando por más información nos comenta que la última vez que se vieron fue a las 11:30 pm en la disco y ella tenía un vestido blanco desde entonces no han tenido contacto, le pedimos que permanezca en la habitación para cualquier información podamos comunicarnos en breve. 
+
+Se le notifica a Valeria GN, quien nos comenta que estarán verificando en áreas y estarán atentos, así mismo se le informa a Isela Prevención. 
+
+La Sra. Graca se comunica nuevamente preguntando por novedades y solicitando se aperture la habitación de su mamá ya que puede que se encuentre ahí, consultamos con Valeria quien comenta se va a acercar a aperturar ya que bell boy reporta haberla llevado al edificio más temprano. 
+
+Valeria GN más tarde nos comenta que la Sra. Barreira se encontraba bien y profundamente dormida en la habitación.
+
+GS//RRPP: Favor de estar atentos a peticiones,
+Saludos.
+
+
+
+
+
+
+
+
+
+
+
+
+QUEJA POR TRATO EN BRASILEÑO RESTAURANTE
+
+Buenas noches
+
+22:51 Se recibe mensaje por la app de las habitaciones 5441, 5435 y 5436 solicitando levantar una queja formal sobre su cena el día de hoy en el Restaurante El Brasileño; nos comparten los siguiente:
+
+1. Fueron a cenar en el restaurante brasileño a su reserva de las 9pm para 10 pax y fue horrible la experiencia.
+2. Al repartir la carne por las mesas no llegaron a las de ellos hasta la tercera ronda.
+3. Ha llegado a tener 3 tipos de carne en sus platos porque servían muy deprisa.
+4. Al camarero se le cayó la comida en la mesa y se la sirvió en su plato sin ningún tipo de reparo.
+5. Cuando los huéspedes iban a buscar carne empezaron a recoger la fruta del buffet, cuando preguntaron porque únicamente les contestaron que no son postres.
+6. Al momento de repartir la piña asada observaron que a los otros comensales les sirvieron poca piña y a ellos no les tocó nada.
+7. La repartición de porciones de piña eran ridículas.
+8. Dieron por hecho que no comerían piña y retiraron 2 platos sin preguntar de su mesa.
+9. El personal del restaurante fue muy negativa, sin actitud de servicio y siempre les daban excusas.
+10. Nunca se disculparon por la mala actitud y siempre estaban a la defensiva.
+11. Es una cena con reserva previa, el servicio y la cantidad de comida debe estar previamente organizada.
+12. Si no es posible de atender con calidad al cliente deber de comunicar la opción de cancelar la cena.
+13. Comentan que fue un desperdicio ir a cenar allí ya que no les quedan muchas noches para poder disfrutar de los restaurantes.
+14. Había huéspedes fumando cerca de la entrada sin que nadie les dijera nada.
+15. Sobre su queja de los huéspedes fumando en la alberca y con la bocina a todo volumen no se ha hecho nada.
+En general recalcan que fue una pésima experiencia con total falta de atención, servicio y carencia de alimentos ya que al parecer no estaban preparados para recibir la cantidad de personas del horario; recibieron el comentario de que es mejor que reserven más temprano en lugar de darles una disculpa por esta mala experiencia. De nuestra parte nos hemos disculpado haciéndoles saber que este no es el servicio que nos caracteriza y estaremos tomando las medidas pertinentes para que esto no vuelva a suceder, aunado a esto les recalcamos que ya tenemos sus quejas tanto del restaurante como de lo sucedido en la piscina y les reiteramos que para nosotros son muy importantes sus comentarios para la mejora del servicio y se estará dando el seguimiento pertinente. 
+GS//RRPP: Favor de estar al pendiente de los huéspedes 
+Prevención: De su apoyo para dar rondines en el área de la piscina para evitar quejas futuras sobre ruidos y huéspedes fumando en zonas no autorizadas.
+BYR MYB: Favor de apoyarnos con sus comentarios. 
+
+Saludos cordiales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROMPT UNIVERSAL PARA CORREOS
+
+Redacta un correo institucional, breve, formal y redactado completamente en tercera persona, como parte de un seguimiento visible para todo el equipo, el correo debe iniciar con el saludo correspondiente según la hora real del evento, usando "Buenos días" si ocurrió por la madrugada o mañana, y "Buenas tardes" si fue por la tarde o noche antes de las 12:00 AM. Si el evento fue después de medianoche, se usa "Buenos días.". Si el evento fue entre las 11:00 PM y las 6:00 AM, después del saludo se debe colocar obligatoriamente e inmediatamente la frase: "Alrededor de la [hora] horas, se recibió llamada a Guest Service por parte de la Sr./Sra...", esta estructura es inamovible y debe ir justo después del saludo sin ninguna línea intermedia, y debe usarse con redacción correcta como "la 1:00 am" y no "las 1", respetando formato y ortografía, esto es base.
+ Nota importante: Cuando la hora es 12, 11, 2, 3, 4, 5 o 6, se debe usar "Alrededor de las [hora] horas". Por ejemplo: "Alrededor de las 2:00 am". Para otras horas (1, 7, 8, etc.) se usa "Alrededor de la [hora] horas".
+En todos los casos, el correo debe iniciar con la frase "Se recibió llamada a Guest Service..." sin importar si fue por APP, por teléfono o por otro medio, es obligatorio usar siempre esa frase de apertura salvo que el contacto haya sido mediante la aplicación Iberostar, en cuyo caso se redacta como: "Se recibió mensaje por la APP Iberostar...", si el mensaje del huésped se va a citar, debe escribirse entre comillas textuales y no se debe alterar ni suavizar.
+El texto debe escribirse completamente en tercera persona, con redacción clara, profesional y en tiempo pasado, utilizando conectores formales como: "quien manifestó...", "Se le informó...", "Se notificó a..." (solo para casos médicos o de seguridad (Prevención) o con RRPP (Relaciones Públicas)) para pendientes donde el otro personal deberá dar seguimiento, así mismo es válido usar "Nos comunicamos con..." para compartir un caso con estos departamentos. "Nos comunicamos con la Dra./Dr...", "quien confirmó que...", "Se solicitó apoyo de...", y similares, nunca debe redactarse en primera persona ni utilizar la frase "la llamada fue transferida", tampoco debe incluirse texto intermedio entre el nombre y la habitación del huésped, el nombre debe mostrarse como: "Sra./Sr. [Apellido], Hab. [número]", nada más.
+El tono debe evitar sonar robótico o forzado, debe leerse fluido, lógico, coherente con la situación descrita y sin asumir detalles no mencionados, la redacción debe aplicarse con lógica completa, entendiendo el contexto, sin dar saltos ni escribir fragmentos sueltos.
+En casos médicos siempre se debe escribir: "Se le ofreció servicio médico con costo adicional", si el huésped acepta, se redacta: "Nos comunicamos con la Dra./Dr., a quien se le comentó todo lo ocurrido", luego se indica que el médico confirmó que acudiría a la habitación, se debe notificar a GN y Prevención dependiendo del horario, mencionando nombres si se tienen, y si el huésped fue trasladado a un centro externo se debe indicar la hora, el destino y el procedimiento realizado, en estos casos RRPP debe intervenir siempre aunque no haya contacto directo con el huésped, el cierre debe ser: "GS || RRPP: Favor de estar pendientes a su regreso".
+En todo caso cuando se reporta una queja, o alguna situación de riesgo que involucre ser reportado con Prevención, se colocará: Nos comunicamos vía radio/linea 2/por llamada con (nombre del agente) de Prevención. Nunca debe usarse la palabra Policía, Seguridad u Oficial para referirse a Prevención.
+En quejas, molestias, discusiones, ruidos, limpieza no realizada, o cualquier situación negativa, se debe ofrecer una disculpa si aplica, si se trata de alimentos, se menciona que los platillos son preparados bajo estrictos estándares de calidad e higiene, si es limpieza, y el huésped solicita el servicio, se canaliza a Ama de Llaves (ALL) y se menciona el nombre si se tiene (ej. Yuridia), además RRPP debe ser notificado para seguimiento, si el huésped rechaza la limpieza, se asienta la negativa y no se hace contacto posterior, RRPP debe intervenir siempre aunque no haya contacto, el cierre depende de la actitud del huésped.
+Si el huésped fue receptivo o agradecido, se cierra con: "GS || RRPP: Favor de realizar llamada para seguimiento y verificar bienestar del huésped", si el huésped no se mostró molesto pero tampoco muy abierto, se usa: "GS || RRPP: Favor de mantenerse al pendiente para cualquier eventualidad", si el huésped mostró molestia o rechazó contacto adicional, se cierra con: "GS || RRPP: No contactar, solo monitorear discretamente", además después de esta frase cierre, se hace un espacio hacia abajo y obligatoriamente se coloca: "Saludos."
+En cambios de habitación, cuando el motivo fue una avería nocturna como el aire acondicionado, y el huésped no solicitó una reparación inmediata, se deben ofrecer dos opciones: esperar al siguiente turno para revisar la avería o hacer cambio de habitación, se debe revisar disponibilidad con Recepción antes de proceder, si el huésped acepta cambiarse, se indica la habitación de origen y destino, si el cambio fue inmediato, se menciona si intervino Bell Boy, quien apoya con el check in, check out, traslado de equipaje y paseo en carrito, pero si el cambio fue entre habitaciones contiguas o muy cercanas, y el huésped se trasladó por cuenta propia, no se menciona a Bell Boy, el cierre en estos casos debe ser: "GS || RRPP: Favor de realizar llamada de seguimiento para verificar que todo se encuentre en orden".
+Si el huésped activa el modo DND (Do Not Disturb), se debe asentar en sistema y no debe realizarse contacto hasta que el huésped modifique el estado, no se redacta más sobre esto, solo se asienta el estado y se detiene el seguimiento.
+Si el caso ya fue resuelto completamente y no requiere intervención adicional, se cierra con la frase: "Sírvase como informativo".
+En reclamos por camastros, extravíos, artículos encontrados, ruidos o quejas con personal, así como provocado por otros huéspedes se puede usar la frase: "Nos disculpamos con el huésped y le aseguré...", variando su estructura para mostrar un interés real por su bienestar y evitar que suene repetitivo, esta frase debe usarse únicamente en situaciones que ameriten esa sensibilidad y en combinación con otras acciones ya tomadas, después de esto el huésped escucha la llamada, siempre agradeciendo y colgando la llamada; incluso variando la redacción conservando el mismo mensaje, nótese que este apartado siempre irá después del primer párrafo, de la descripción de los hechos.
+Los cierres siempre deben escribirse según la lógica emocional y operativa del caso, respetando la reacción del huésped y la intervención del equipo, y adaptando el tono para mostrar un interés auténtico, no un trámite administrativo.
+Respetar siempre la lógica de turnos: RRPP disponible de 6:00 AM a 11:00 PM, GN de 11:00 PM a 6:00 AM, Prevención disponible 24 horas, solo se debe mencionar áreas activas según el horario del evento, no se menciona RRPP si no estaba disponible, no se escribe "Prevención no intervino", simplemente se omite si no aplicó.
+Los nombres de las áreas siempre deben escribirse con sus siglas institucionales: GN, Prevención, Dra./Dr., MTTO, EN (Encargado nocturno), REC, LLC, ALL, B&R, RS o room service. En casos donde avisemos a GN (Gerente Nocturno) o EN, siempre colocar: (Nombre del encargado) GN/EN (sin comas entre estas dos palabras) toma conocimiento o fue notificado de esta situación.
+Importante: Cuando se mencione al personal por nombre y departamento, solo debe indicarse el nombre y el área, sin conectores ni frases adicionales, por ejemplo: "Alberto Prevención", "Valeria GN", "Charlie EN". Esto aplica para indicar quién tomó conocimiento o quién apoyó en el caso.
+Importante: El uso de GS || RRPP siempre debe incluirse en quejas, molestias, servicios médicos, extravíos o situaciones que requieran seguimiento en turno 1 o 2, sin excepción. En casos informativos o que no requieren seguimiento, no se usa GS || RRPP y se cierra directamente con "Saludos."
+Importante: La expresión "Alrededor de la/las [hora] horas" debe usarse con la preposición "la" para horas como 1:00 am, y "las" para horas 11:00 pm, 12:00 am, 2:00 am, 3:00 am, 4:00 am, 5:00 am y 6:00 am, respetando esta distinción para mantener la corrección y el estilo institucional.
+Este prompt debe aplicarse en todos los correos de seguimiento visibles, sin excepciones, y debe mantenerse como estructura base definitiva para la redacción institucional en Iberostar.
+Antes del cuerpo del correo, se debe incluir un título siempre, sin excepción. Este título debe contener los siguientes elementos exactamente:
+HAB (Número de habitación) || (SR. O SRA.) (Apellido del huésped según la información) || (Título creativo, formal y breve referente al asunto del correo, que suene profesional y no ridículo) || OUT (fecha de salida en formato DD.MM)
+Ejemplo:
+HAB 5001 || SRA. GELISA || FILTRACIÓN EN EL TECHO || OUT 27.07
+PARA CASOS DONDE SE HAYA CONFIRMADO O TERMINADO CUALQUIER PENDIENTE COMO AVERIAS O CUALQUIER ASUNTO DE TAREAS, SE DEBERA PONER COMO BASE ESTE TIPO DE CORREO:
+Buenas tardes,
+Para su conocimiento, nos hemos contactado con el (Huésped) para saber acerca de (tarea, situación) reportada (fecha de incidencia o asunto) Durante la llamada/en nuestra conversación nos ha confirmado que la (situación o tarea) ha sido solucionada y se ha mostrado agradecido por la atención recibida.
+Nos ponemos a su disposición a través de Guest Service marcando el "0" o con RRPP.
+Sin más por el momento,
+Saludos.
+
+--------------------------------------------------------------------------------------------------------------------------
+Por favor, genera un resumen breve y profesional para reporte interno según las siguientes indicaciones:
+1. Del texto que se envía, identifica el tipo de reporte (ejemplos: QUEJA DE RUIDOS, REACCIÓN ALÉRGICA, QUEJA POR OLOR A QUEMADO, EXTRAVÍO EN HABITACIÓN, etc.). Si no está claro, usa "OTRO" e indica título.
+
+2. Detecta el estatus del reporte con base en las palabras clave al final del texto usando las siguientes opciones: 
+
+? PENDIENTES A SOLICITUDES
+
+? DAR SEGUIMIENTO
+
+? INFORMATIVO
+
+? FINALIZADO GS
+
+? FINALIZADO RRPP
+
+? PENDIENTE RRPP/SP
+
+? CONTACTAR
+
+? NO CONTACTAR
+
+? ACTUALIZAR
+
+? FINALIZADO POR OUT
+
+? Si aparece la palabra "contactar" (o similar), usa CONTACTAR
+
+? Si aparece "no contactar", usa NO CONTACTAR
+
+? Si aparece "pendientes", usa PENDIENTES A SOLICITUDES
+
+? Si aparece "dar seguimiento" o frases similares, usa DAR SEGUIMIENTO
+
+? Si aparece "informativo" o se indica que no hay seguimiento, usa INFORMATIVO
+
+? Si aparece "finalizado" o similar, usa FINALIZADO GS o FINALIZADO RRPP según corresponda
+
+? Si no aparece ninguna palabra clave clara, usa PENDIENTES A SOLICITUDES como default
+
+3. Redacta un resumen muy conciso en tercera persona, usando "Hspd" para referirse al huésped. Incluye nombres o departamentos involucrados con siglas oficiales (Prevención, GN, ALL, RS, etc.), no incluyas el nombre del huésped ni su habitación ni su número, evita usar mucho detalle.
+
+4. El formato de salida debe ser:
+
+[TIPO DE REPORTE] | [ESTATUS] | [Resumen] EMMA GS
+Ejemplo:
+REACCIÓN ALÉRGICA | FINALIZADO GS | Hspd reporta reacción en piel tras consumir mariscos, se ofreció servicio médico con Dra. Stefania pero fue rechazado. EMMA GS
+
+MENU FIJO INFO: https://mail.google.com/mail/u/0/#search/family+style/WhctKKXXMCCmRwdDlSQJxtTplQWRrqtkfqnbWBpjzbFCcNfBbKVHpwDGLCgQzxMNKGRtthq?compose=DXDwSWwxrTJgtfjcdWhnhrbcNDcklZdLKZfsJjlbpVcMFbxcPRrjBmlZrwbXzNchDhkNcgdnjnqZNnQlHKxNdZfdHMmCwBPcDjxqjsbkZltmRmDNGPBrSSBB
+
+PLANTILLAS
+
+BALINESAS MAR & BEACH
+
+HAB 1001 || SRA. HENKEL || RENTA DE BALINESA N°2 EN ZONA B PARA EL DIA 09.04 || OUT 10.04
+
+Buenas tardes.
+
+Se recibe mensaje via app por parte de la Sra. Hohauser de la habitación 1624 para reservar la Balinesa N°3 de la Zona A para el día 16.01, con un costo de $300 MXN Pesos.
+
+Adjunto comprobante de pago:
+
+
+
+De la misma manera, se le compartieron las políticas de cancelación, las cuales acepta.
+
+Se adjunta cargo vía POS.
+
+
+
+Vendió: Emanuel Hernández #108380
+
+Saludos cordiales.
+
+BALINESAS SOLARIUM LINDO & MAYA
+
+HAB 6153 || SRA. PACK || RENTA DE BALINESA SOLARIUM/ESTÁNDAR N°2 & 4 PARA EL DIA 09.04 || OUT 10.04
+
+Buenas tardes.
+
+Se recibe mensaje via app por parte del Sr. Peters de la habitación 6371 para reservar la balinesa N°9, 10, 11 & 12 del Solarium para el 16.01, paquete básico con un costo de $500 MXN Pesos por balinesa, siendo el costo total de $2,000 MXN Pesos.
+
+
+
+De la misma manera, se le compartieron las políticas de cancelación, las cuales acepta.
+
+Se adjunta cargo vía POS.
+
+
+
+Vendió: Emanuel Hernández #108380
+
+Saludos cordiales.
+
+
+
+
+
+
+ANULACIÓN DE VENTA
+
+Buenas tardes.
+Mediante este correo, hago de su conocimiento que hemos recibido una solicitud por parte de la Hab 6246, siendo los Sres. Manley, con una solicitud de cena romántica a través de la aplicación. Tras dialogar con nuestro huésped, nos confirmó que se trató de un error de dedo y que no desean requerir el servicio.
+
+
+Recepción: Solicito su amable apoyo para anular el cargo a esta habitación.
+
+Quedo pendiente de sus comentarios,
+
+Saludos.
+
+SPA SENSATIONS
+
+EJEMPLO
+
+Emanuel,
+Let's make the reservation for February 9. I'd like the Tailored Babor Balancing Ritual. Please confirm this reservation and how to take care of payment.
+
+Name: Ashley Boerke
+Hotel: Paraíso Maya Suites
+Arrival: around 12:00 on February 7
+Service request: February 9
+Reservation: 2/7-2/12 is our stay, reservation number R0K643FW
+
+Sent from my iPhone
+
+?
+Good evening Mrs. Ashley,
+The services I previously shared are the main offerings; however, the specific service you requested, the Tailored Babor Rituals, is also available among the variety of options we manage. 
+The price for this service is 4,935 Mexican currency, and it has a duration of 80 minutes.
+Additionally, I kindly request your reservation details I mentioned earlier, to proceed with your request.
+Please let me know if you would like further details or assistance.
+I will be attentive to your response Mrs. Ashley
+Regards.
+Emanuel,
+Why is there a different menu on the website? See my atta he'd screenshot.
+Ashley
+
+Sent from my iPhone
+?
+Dear Mrs. Ashley,
+Good afternoon, and thank you for your kind response.
+We truly appreciate you choosing Iberostar for your vacations. I will be glad to check the spa's availability for you. In the meantime, I will share images of the spa's offerings, along with the prices in Mexican pesos, for your reference.
+We also have a couple's option available, should you be interested.
+<image.png>
+Please, in order to proceed, I will need the following details
+? Reservation date and number
+? Hotel name
+? Full name
+? Estimated arrival time
+Should you need anything else, please feel free to let me know.
+Warm regards,
+Hello,
+We spoke in the phone. I am looking to book a Babor Balancing service during my stay next week. 
+I was hoping for lunch time on Sunday 2/9.
+Please advise about this service and how to proceed with booking.
+Ashley Boerke
+
+Sent from my iPhone
+
+
+
+
+
+
+SOLICITUD
+Buenas tardes.
+Nos ponemos en contacto con ustedes en relación a una solicitud de parte de la Sra. Ashley Boerke, quien ha solicitado el servicio Tailored Babor Rituals con una duración de 80 minutos para el día 09.02.2025, 01 Pax en el Spa Central.
+Solicitamos su amable apoyo para revisar la disponibilidad de este servicio para la fecha indicada, así como confirmando el precio actualizado para el mes de febrero.
+Quedamos a la espera de su confirmación.
+Saludos cordiales.
+AFIRMACIÓN
+
+Buenas noches.
+
+Se ha recibido una solicitud por parte de la Srita. Ashley Boerke quien tendrá su estancia en Selection Maya del 07.01 al 12.02
+
+RVA 9502/2025. El huésped ha adquirido Tailored Babor Balancing Ritual de 80 minutos para el día domingo 09.02 a las 11:00 hrs. 
+
+El costo del masaje es de $4,935 MXN. De la misma manera, se comparten las políticas de cancelación. 
+
+Se ha confirmado con Malu de Spa la reserva para la fecha antes mencionada. 
+
+Adjuntamos el comprobante de pago y confirmación del huésped:
+
+
+
+Vende: Emanuel Hernández | N°108380
+
+Agradecemos su colaboración
+
+Saludos cordiales.
+
+
+
+
+
+
+
+
+
+SOLICITUD DE INFORMACIÓN
+
+Good afternoon Mr.
+
+My name is Emanuel from the Guest Service Department.
+
+First of all thank you for choosing Iberostar Hotels and Resorts as your vacation destination.
+As you will be celebrating a special event during your stay with us in order to provide correctly you our amenities list, could you be so kind to share with us the following information?:
+Name of the Hotel:
+Date of check in:
+Date check Out:
+Number of people:
+Celebration/event:
+In whose name is the reserve?
+If you have any questions please let us know through this email.
+Have a nice day.
+
+
+ORDEN CON CARGO - FRESAS CON CHOCOLATE Y ARREGLOS
+
+
+Buenas noches. 
+
+Favor de apoyarnos con la siguiente orden de atención con cargo: 01 Orden de fresas con chocolate + 01 Ramo de 24 rosas + 01 bolsa de pétalos para el día 01/03/2025 a las 15:00 hrs.  
+ 
+PASTELERÍA: Favor de preparar 01 orden de fresas con chocolate y entregar a room service a las 14:30 hrs OK CHEF NICO
+
+ROOM SERVICE:  Favor de entregar 01 orden de fresas con chocolate a la habitación 6367 a las 15:00 hrs.  OK JAVIER
+
+FLORERÍA: Favor de tener listo 01 Ramo de 24 rosas + 01 bolsa de pétalos de rosas para decoración de cumpleaños a las 12:00 hrs. OK WENDY 
+
+ALL: Favor de realizar Decoración de Cumpleaños en la habitación 6367 a las 12:00 hrs. OK ARACELI
+
+REC: Favor de compartir factura contado día, pago vía Adyen por $2,210 MXN HAB 6367 con RVA: 15812/2025 Sra. Butto, Arene
+
+G.S: Favor de confirmar la entrega en tiempo y forma. 
+
+Saludos cordiales. 
+
+
+
+Buenas tardes. 
+
+Se recibe llamada por parte de la Sra. García de la habitación 5441 solicitando alimento papillas para su bebé por el resto de su estancia, siendo la siguiente orden:
+
+? 01 Papilla de Arroz con pollo sin sal 
+? 01 Papilla de Vegetales Cocidos mixtos sin sal (ir variando cada día, huésped confirma que puede ser cualquier vegetal como brócoli, chayote, zanahoria, papa, calabaza, etc.)
+
+Solicita recibirla todos los días a las 12PM y a las 4PM por el resto de su estancia a partir de mañana 23.03 hasta el día 28.03. Se informa a Javier de Room Service y a Chef Gustavo L&M. 
+
+
+GS | RRPP: Favor de confirmar entregas en tiempo y forma. 
+
+
+Saludos cordiales. 
+
+BIENVENIDA DE VENTAS
+
+Good afternoon Mr./Ms.
+
+My name is Emanel, I'm from the Guest Service Department. First of all, allow me in advance to express my gratitude for give me your trust to assist you on this occasion. I guarantee that we will do our best to make this experience as enjoyable and memorable as possible for your wife.
+In response to your e-mail, please allow me to introduce you to the best options for this present:
+
+*All our photos are illustrative, there may be variations in the final product. 
+*Nuestras imágenes son ilustrativas, puede haber variaciones en el resultado final
+It is important to mention that all charges are in Mexican pesos. In case you wish to confirm the order, the payment method would be through a link.
+I continue in attend to your response.
+Warm regards.
+VENTA DE BOTELLA
+
+
+Buenas tardes.
+
+Favor de apoyarnos con la siguiente orden adjunta con cargo 02 VINO BLANCO ROBERT MONDAVI WOODBRIDGE para hoy 24.03.2025
+
+B&R: Favor de apoyarnos con 02 VINO BLANCO ROBERT MONDAVI WOODBRIDGE a la habitación 6308 | OK RUBÉN B&R, OK JAVIER RS.
+
+Adjunto comprobante:
+
+
+
+REC: OK cargo New POS
+
+
+
+Vendió: Emanuel Hernández N°108380
+
+GS: Favor confirmar la entrega en tiempo y forma. 
+
+Saludos.
+
+
+
+LINKS DE VENTAS
+CAPACITACIÓN SHOWS DE PAGO
+
+
+VINOS Y CHAMPÁN                                 IB-SEL_MX_CARTA_VINOS
+LICORES                                                   LICORES.pdf
+
+
+JOIA
+
+JOIA CELLAR (GRAND CELLAR)           CELLAR - CATERING
+                                                                  JOIA Signature Experiences
+STAR PRESTIGE PAQUETE                   JOIA Signature Experiences
+                                                                  STAR PRESTIGE
+ARREGLOS                                              Catálogo de flores Iberostar Mx.pdf
+                                                                  JOIA Signature Experiences
+VINOS Y LICORES                                  GHP_MX_CARTA_VINOS-venta (2).pdf
+                                                                 PRECIOS VINOS VENTA EXTRA 2025
+CENA ROMÁNTICA                                 JOIA Signature Experiences 
+DECORACIÓN ROMÁNTICA                   JOIA Signature Experiences
+PAQUETE DE CUMPLEAÑOS                 JOIA Signature Experiences 
+DECORACIÓN DE CUMPLEAÑOS         JOIA Signature Experiences
+FRUTAS Y FRESAS                                 JOIA Signature Experiences
+TRUFAS Y BOMBONES                           JOIA Signature Experiences
+SELECCIÓN DE QUESO S                      JOIA Signature Experiences
+PASTELES                                                JOIA Signature Experiences
+PROPUESTA EN PLAYA                          JOIA Signature Experiences
+CENA PROPUESTA EN PLAYA               JOIA Signature Experiences
+STAR PRESTIGE                                     JOIA Signature Experiences
+ROOM SERVICE VINOS 
+Y LICORES INCLUIDOS                          LICORES CON CARGO GRAND 2024
+
+
+
+HABITACIONES
+
+JOIA
+
+HABITACIONES
+
+HABITACION JOIA
+Áreas para fumadores - Designated smoking areas - ok Juridico y DIR MEX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Boton negro de lampara para prenderla             Bolsa de Yute, bajo disponibilidad con cargo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Código QR para Room Service                              Switch para el ventilador de Techo
+
+
+
+
+
+
+
+
+
+  Control del A/C y de las luces de la HAB
+
+
+
+
+
+
+LINDO Y MAYA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Código QR a lado de la Cama                                Seguro de noche detrás de la puerta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Botón del monomando para activar ducha           Dispensadores (Gel, Acondici..., Champu)
+
+
+
+
+
+
+
+
+
+
+
+
+                 Secadora en el baño                            Cortina Blackout detrás, jalar manualmente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Espejo vanity doble vista, encendido auto.            Dispensadores de agua, mantener botón
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Maquina de Hielo en planta media (siempre esa planta)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Escalón de Bebé (Bajo dispo, con ALL)                                        Vaso Minibar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        Vaso en el baño
+
+
+
+
+
+Las habitaciones King en los edificios 51, 52 y 53 cuentan con litera.
+
+1: Con el apoyo de ALL, deberán tener una llave para poder abrir la litera/sofa - cama empezando por bajar la "mesa".2: Se baja la "mesa" de tal forma que quede horizontal.3: Se empuja para atras y hacia abajo la "mesa"4: Una vez colocado abajo junto la cama base, se empuja el sofá hacia abajo.5: Empujando el sofá hacia abajo y hacia enfrente.6: El sofá cama está listo para su uso.
+
+Apretar el botón monomando y empujar hacia arriba la palanca al mismo tiempo para abrir la regadera serpiente y llenar la tina.Regadera serpiente retráctil flexible.
+INFORMACIÓN GENERAL
+PISCINAS Y ACÚATICOS
+
+Albercas: 8 AM - 7PM 
+Parque acuático: 10 AM - 5 PM 
+Río lento: 8 AM - 7 PM
+Alberca de Olas: 10 AM - 5 PM
+Toboganes: 10 AM - 5 PM
+
+Horarios de Construcción: 9am a 6pm
+BIOENCO: Se van 8.30/9pm 
+Llamadas Nacionales: $20MXN x min. 
+Llamadas Internacionales: $50MXN x min.
+Horario limpieza: 9am - 5pm 
+
+EK BALAAM' TATUAJES
+
+Horario Centro Comercial: 10 AM - 9 PM
+Horario Piscinas MB & LM: 10 AM - 6 PM
+Costo: Desde los $100 USD en adelante, con un depósito de $20 USD
+
+CONTACTO
++6241388500
+
+EXT | 5309 | - Ceramica | 6241388500 - Ivan / pequeño 100 USD con $20 USD un dia nates de que regresen a casa / comision / 10 am - 9 PM /  Domingo no se junta mucha - desde 1,000 con William | Ek-Balam Tattoos | LM, MB 10 AM - 6 PM Ivan Tapia | Cambiar el horario 11 AM mañana | Ceramica 
+
+THE BARBER SHOP
+ESPAÑOL
+
+SERVICIOS
+Corte de caballero                                                     45 MIN
+Corte de niño                                                             45 MIN
+Barba                                                                         30 MIN
+
+CERA
+De nariz                                                                     25 MIN
+Depilación de Cejas                                                  25 MIN
+Depilación de Oreja                                                  25 MIN
+
+GRECAS
+Cejas                                                                         20 MIN
+Pequeña                                                                    20 MIN
+Mediana                                                                    25 MIN
+Grande                                                                      30 MIN
+Dibujo                                                                        40 MIN
+
+EXTRAS
+Limpieza facial exfoliante                                         15 MIN
+Mascarilla de Carbón activado                                 15 MIN
+
+Serum rejuvenecedor con 
+colágeno ácido hialurónico,                                      10 MIN
+vitamina "C" Y "E"
+
+Parche Hidratante-reafirmante 
+contra ojeras y bolsas en los                                    15 MIN
+ojos con retinol, cafeína y colágeno         
+
+CONTACTO
++529842169948
+thebarbershopparaiso@gmail.com
+
+INGLÉS
+SERVICES
+ Men's Haircut                                                            45 MIN
+ Children's Haircut                                                      45 MIN
+ Beard Trim                                                                 30 MIN
+WAXING
+ Nose Waxing                                                             25 MIN
+ Eyebrow Waxing                                                        25 MIN
+ Ear Waxing                                                                25 MIN
+DESIGNS 
+ Eyebrow Design                                                        20 MIN
+ Small Design                                                             20 MIN
+ Medium Design                                                         25 MIN
+ Large Design                                                             30 MIN
+ Drawing                                                                     40 MIN
+EXTRAS
+ Exfoliating Facial Cleansing                                     15 MIN
+ Activated Charcoal Mask                                          15 MIN
+ Rejuvenating Serum with
+ Collagen, Hyaluronic Acid,                                      10 MIN
+ Vitamin C & E
+
+ Hydrating and Firming Patch
+ for Dark Circles and Puffiness                                 15 MIN
+ with Retinol, Caffeine, and Collagen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEDSOLUTIONS
+ESPAÑOL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INGLÉS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTACTO
++9841475127 | +9841641541
+info@med-solution.com.mx
+
+
+
+Los Monos se encuentran en el Star Camp hasta las 6:00 PM
+
+REPOSICIÓN DE MINIBAR PERSONALIZADO
+
+CANTIDADPRODUCTO2CERVEZA NACIONAL
+(XX LAGUER BOT 355 ML)2CERVEZA IMPORTADA
+(HEINEKEN BOT 350 ML)1CERVEZA LATA CORONA LIGHT 35.5 CL2COCA COLA1COCA COLA ZERO1COCA LIGHT1SPRITE ZERO1AGUA CON GAS 350 ML1NECTAR DE MANZANA 355 ML1NECTAR DE MANGO 355 ML1VINO BCO XA BLANC DE BLANCS 37.5 CL1VINO TTO XA 37.5 CL
+
+
+
+
+
+
+
+
+
+
+CANTIDADPRODUCTO4CERVEZA IMPORTADA
+(HEINEKEN BOT 350 ML)2COCA COLA3COCA COLA ZERO1AGUA CON GAS 350 ML1NECTAR DE MANZANA 355 ML1NECTAR DE MANGO 355 ML1VINO BCO XA BLANC DE BLANCS 37.5 CL1VINO TTO XA 37.5 CL1FRASCO DE GALLETAS1FRASCO DE PAPAS
+
+AGENCIAS DE VIAJES
+
+? Sunwing & WestJet se encuentran en Lobby Mar de 9:00 AM - 3:00 PM
+? BlueJet se encuentra en Lobby Beach de 9:00 AM - 3:00 PM
+StarCamp/laser tag 8:30 - 10:00 solo hoy miercoles y viernes es pirata, pizza, decoracion alcancias ceramica, juegos pirata face painting 400 mxn por niño 2 700, pijamada, decoarcion 
+
+SEGURIDAD CODIGOS
+
+35 - HUÉSPED
+47 - RUIDOS
+29 - MOLESTA
+39 - EBRIO
+33 - SI/COPIADO/AFIRMA
+32 - NO CONTESTA
+27 - NEGATIVO
+31 - TIEMPO
+83 - OBJECTO
+
+
+
+https://sites.google.com/iberostar.com/iberostar-the-club-mx/wines-vinos
+
+FIRST COME FIRST SERVED INFORMACIÓN
+
+Me dirijo a ustedes para aclarar el sistema de "First Come, First Served" en nuestros restaurantes, con el fin de que puedan comunicar esta información de manera efectiva a nuestros huéspedes y evitar malentendidos.
+
+Nuestros restaurantes tienen una capacidad limitada para recibir a un gran número de huéspedes simultáneamente. Por ello, el acceso se realiza por orden de llegada. Una vez que el aforo se completa, se activa una lista de espera. Es importante destacar que no se establece un tiempo fijo para la espera, ya que dependemos del ritmo en que los huéspedes dentro del restaurante consumen sus alimentos. El tiempo máximo estimado para disfrutar de la comida es de una hora y 45 minutos. Si los huéspedes exceden este tiempo, se les solicitará amablemente que desocupen la mesa para permitir que otros huéspedes hagan uso de ella.
+
+Utilizamos una aplicación para notificar a los huéspedes cuando su mesa está lista. No siempre es necesario que esperen dentro del restaurante. Se les otorga una tolerancia de 10 minutos para presentarse una vez que se les llama, la cual puede extenderse a 15 minutos a discreción del capitán. Esta es la razón por la que en ocasiones los huéspedes observan mesas vacías y pueden interpretar erróneamente que se les está negando la entrada.
+
+Respecto a los socios, contamos con lugares asignados en estos restaurantes. A ellos también se les informa sobre la política de tiempo de tolerancia, lo cual, en ocasiones, puede contribuir a los malentendidos.
+
+Para grupos de más de 6 personas, solicitamos que la mayoría de los miembros de la familia estén presentes al momento de la llegada. Por ejemplo, si solo llegan 2 personas para un grupo de 8 y el resto llega en horarios muy dispersos, esa mesa podría estar ocupada por un solo grupo durante casi todo el horario de servicio, impidiendo que se utilice para más clientes.
+
+
+
+
+
+
+
+SHUTTLE INFORMACIÓN DE MAYA
+
+
+El taxi tiene capacidad de 4 personas, cada taxi a Playa es de $500, en este caso al ser 13 serían más de $1,500 si lo desea por taxi
+
+En cambio, el shuttle que sale de Maya el costo es de $200 MXN pero por persona de Ida y vuelta, en este caso al ser 13 personas serían $2,600
+
+Y la van, que tiene de capacidad 14 personas, tiene el coste de $1,300 MXN por todos los 13 solo de ida
+
+Presentación GUEST SERVICE INFO RP
+PROTOCOLOS Y RESPUESTAS
+
+
+
+
+
+
+
+CENA ROMÁNTICA EN PLAYA BEACH A LAS 19:00 HRS
+
+EMANUEL HERNÁNDEZ N°108380
+COSTO: 5,000 MXN PESOS
+HAB: 1503
+SRA. PORRAS MATURANA, PAULA FERNANDA
+RVA: 7466/2026
+
+· 01 CENTRO DE 12 ROSAS y 01 BOLSA DE PÉTALOS ROJOS | OK FELICIANO FLORERIA
+· MENÚ DE CENA ROMÁNTICA | OK CHEF RAÚL
+· MONTAJE TIPI ANTES DE LAS 19:00 HRS | OK MIRIAM B&R 
+· BACK UP EN ITALIANO | OK MIGUEL RS
+
+
+
+
+
+
+
+
+
+
+Cómo funciona nuestro servicio
+? La sesión no tiene costo de reserva ni compromiso de compra.
+? Dura entre 20 y 40 minutos en las áreas más lindas del hotel y la playa.
+? Después, los huéspedes tienen una cita para ver sus fotos y elegir sus favoritas.
+? Pueden llevar desde una sola imagen digital hasta colecciones completas, fotolibros e impresiones con envío internacional (con cargo extra).
+? Todas las fotos digitales se entregan en alta resolución mediante un link seguro (vigencia 60 días), están de 9 AM - 4 PM.
+Lo más importante
+Para que podamos garantizar disponibilidad y respetar la tarifa vigente, es clave que los huéspedes reserven lo antes posible. La lista de precios que te comparto es válida hasta el 30 de octubre de 2025 (en pesos mexicanos).
+Te agradecemos mucho tu apoyo compartiendo este beneficio con los clientes. Cualquier duda o situación especial, por favor avísanos; estamos para hacerles el trabajo más fácil a ustedes y la experiencia más agradable a los huéspedes.
+Un abrazo y muchas gracias por su apoyo,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAPA MAYA.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PALETA DE COLORES PARA BRIEFIENG
+
+
+MAR & BEACH
+
+
+CHIPFONDOTEXTORESTAURANTETIPO DE COMIDA (DESAYUNO, CENA...)TITULO DE ENCABEZADOSEGUNDO ENCABEZADO (SHOWS ETC)CERRADOFIRST COME - FIRST SERVEDRESERVAHORARIOS DE DESAYUNO Y ALMUERZOTEMATICA BUFFETESTACIÓN TEMATICALA PLAZANAVIDADHALLOWEENTHANKSGIVING
+
+
+
+
+
+
+
+
+
+
+CHIPFONDOTEXTORESTAURANTETIPO DE COMIDA (DESAYUNO, CENA...)TITULO DE ENCABEZADOSEGUNDO ENCABEZADO (SHOWS ETC)CERRADOFIRST COME - FIRST SERVEDRESERVAHORARIOS DE DESAYUNO Y ALMUERZOTEMATICA BUFFETESTACIÓN TEMATICALA PLAZANAVIDADHALLOWEENTHANKSGIVING
+
+
+
+
+
+
+
+
+
+
+LINDO Y MAYA
+
+CHIPFONDOTEXTORESTAURANTETIPO DE COMIDA (DESAYUNO, CENA...)TITULO DE ENCABEZADOSEGUNDO ENCABEZADO (SHOWS ETC)CERRADOFIRST COME - FIRST SERVEDLA MARINA (FC/FS)RESERVALA PAGODA BUFFET TEMATEMA BUFFETHORARIOS DE DESAYUNO Y ALMUERZOACTIVIDADES PRESTIGEGASTRONOMICO PLAYA - PSICINAA&B EXPERIENCEMAYAN GASTRO
+& MOMENTOS MEMORABLESHORARIO TAKO Y BURGERHALLOWEENTHANKSGIVING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JOIA
+
+CHIPFONDOTEXTORESTAURANTETIPO DE COMIDA (DESAYUNO, CENA...)TITULO DE ENCABEZADOSEGUNDO ENCABEZADO (SHOWS ETC)CERRADOFIRST COME - FIRST SERVEDRESERVAHORARIOS DE DESAYUNO Y ALMUERZOTLCTEMÁTICA BUFFETRHAPSODY MIRADORBLACK JACKTHANKSGIVING
+
+LAVANDERIA
+ESPAÑOL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regular: Si se recibe antes de las 09:00 hrs será devuelto el mismo día después de las 17:00 hrs
+Express: Recarga 50% se devolverá en 3 (5) horas
+
+Los precios se muestran en pesos mexicanos. En caso de necesitar servicio de tintorería, lavado en seco y/u otro artículo, póngase en contacto con su concierge en la extensión 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRECIOS EXPRESS
+
+1. General
+
+Camisa/ Blusa
+Lavado y planchado (60$) - Solo planchado (45$)
+
+Playera/ Camiseta
+Lavado y planchado (45$) - Solo planchado (30$)
+
+Pantalón corto 
+Lavado y planchado (45$) - Solo planchado (37.5$)
+
+Pantalón 
+Lavado y planchado (67.5$) - Solo planchado (52.5$)
+
+Bermudas
+Lavado y planchado (45$) - Solo planchado (22.5$)
+
+Ropa interior 
+Lavado y planchado (30$)
+
+Calcetines
+Lavado y planchado (15$)
+
+Pijama
+Lavado y planchado (67.5$) - Solo planchado (52.5$)
+
+
+
+Traje de baño
+Lavado y planchado (30$)
+
+Chaleco
+Lavado y planchado (60$) - Solo planchado (30$)
+
+2. Caballero
+
+Traje completo
+Solo planchado (135$)
+
+Traje de novio
+Solo planchado (225$)
+
+3. Dama
+
+Vestido corto
+Lavado y planchado (105$) - Solo planchado (90$)
+
+Vestido largo
+Lavado y planchado (142.5$) - Solo planchado (120$)
+
+Falda
+Lavado y planchado (60$) - Solo planchado (45$)
+
+Vestido de novia
+Solo planchado (450$)
+
+4. Niño
+
+Camisa/ Blusa
+Lavado y planchado (30$)
+
+Playera/ Camiseta
+Lavado y planchado (30$)
+
+Pantalón corto
+Lavado y planchado (30$)
+
+Bermudas
+Lavado y planchado (30$)
+
+Pantalón
+Lavado y planchado (37.5$)
+
+Ropa interior
+Lavado y planchado (30$)
+
+Calcetines
+Lavado y planchado (15$)
+
+Pijama
+Lavado y planchado (37.5$)
+
+
+
+Vestido
+Lavado y planchado (52.5$)
+
+Falda
+Lavado y planchado (30$)
+
+Traje de baño
+Lavado y planchado (22.5$)
+
+
+
+
+
+
+
+
+RESPUESTAS AUTOMÁTICAS INTRASTAY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VENTAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CORREOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLANTILLAS DE VENTAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INFORMACIÓN GENERAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INFORMACIÓN GENERAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
