@@ -64,7 +64,12 @@
   .empty-state { text-align: center; padding: 40px 16px; color: #6b7280; }
   .empty-state strong { color: #374151; }
 
-  .toast { position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%) translateY(100px); background: #111827; color: white; padding: 12px 18px; border-radius: 10px; font-size: 0.88rem; opacity: 0; transition: all .3s; z-index: 100; max-width: 92%; text-align: center; }
+  .file-picker { background: #eff6ff; border: 2px dashed #93c5fd; border-radius: 12px; padding: 22px 16px; text-align: center; margin: 12px 0; }
+  .file-picker input { display: none; }
+  .file-picker label { display: inline-block; background: #1e3a8a; color: white; padding: 10px 18px; border-radius: 8px; cursor: pointer; font-weight: 600; }
+  .file-picker.dragover { background: #dbeafe; border-color: #1e3a8a; }
+
+  .toast { position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%) translateY(100px); background: #111827; color: white; padding: 12px 18px; border-radius: 10px; font-size: 0.88rem; opacity: 0; transition: all .25s; z-index: 100; pointer-events: none; max-width: 90vw; text-align: center; }
   .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 
   .help { font-size: 0.75rem; color: #6b7280; margin: 10px 0 0; line-height: 1.35; }
@@ -98,8 +103,7 @@
   </div>
 
   <p class="help">
-    ① Escribe el apellido. ② Toca cualquier mensaje para copiarlo. ③ Toca un idioma para traducir el último mensaje copiado. 
-    Si abres el archivo localmente y falla la carga, usa GitHub Pages (ver README).
+    ① Escribe el apellido. ② Toca cualquier mensaje para copiarlo. ③ Toca un idioma para traducir el último mensaje copiado.
   </p>
 </div>
 
@@ -173,7 +177,6 @@ function identifySection(line) {
   for (const k of normalizedKnown) {
     if (norm === k.norm || trimmed.toUpperCase().startsWith(k.norm)) return k.original;
   }
-  // Heurística: línea corta mayoritariamente en mayúsculas
   const letters = trimmed.replace(/[^a-zA-ZÁÉÍÓÚáéíóúÑñ]/g, '');
   const upper = letters.replace(/[^A-ZÁÉÍÓÚÑ]/g, '');
   if (letters.length >= 4 && upper.length / letters.length > 0.65 && trimmed.length < 90) {
@@ -187,28 +190,13 @@ function detectLang(text) {
   if (/^(guten|guten morgen|guten tag|guten abend)/.test(t)) return 'de';
   if (/^(bonjour|bonsoir|bon après-midi)/.test(t)) return 'fr';
   if (/^(boa tarde|bom dia|boa noite|o meu nome é|motivo desta)/.test(t)) return 'pt';
-  if (/^(buenos días|buenas tardes|buenas noches|hola |si necesita|no dude|hágame|estamos atentos|estamos atentas|le agradezco|quisiera informarle|lamento informarle|permítame|puede |muchas gracias|mis disculpas|es un placer|en ese caso|dado que|me llamo|soy emanuel|buenos días|buenas tardes|buenas noches|excelente noche|mis más sinceras|quedo atento|quedo atenta)/.test(t)) return 'es';
-  if (/^(good morning|good afternoon|good evening|hello |let me |we are |thank you|please |my name|i would like|i apologize|we apologize|it is a pleasure|in that case|i appreciate|i understand|sorry |could you|if you need|we have received|we kindly|i am reaching|i am contacting|i am writing|alright |during the|as an added|please note|we offer|the use of|show hawaiano|gracias por)/.test(t)) return 'en';
-  // Fallback por palabras clave generales
-  if (/\b(el|la|los|las|del|que|por|para|con|su|habitación|estancia|gracias|disculpa|reserva)\b/i.test(text) && !/\b(the|and|for|you|room|stay|thank|sorry|reservation)\b/i.test(text)) return 'es';
+  if (/^(buenos días|buenas tardes|buenas noches|hola |si necesita|no dude|hágame|estamos atentos|estamos atentas|le agradezco|quisiera informarle|lamento informarle|permítame|puede |muchas gracias|mis disculpas|buenos días|soy emanuel|es un placer|entiendo |este es un mensaje|podría |para |dado que|sin embargo|además|gracias por|le informamos|me presento|el motivo|les saluda|les invito|el bienestar|les deseo|parece que)/.test(t)) return 'es';
+  if (/^(good morning|good afternoon|good evening|hello |let me |we are |thank you|please |my name|i would like|i apologize|we apologize|it is a pleasure|in that case|i appreciate|i understand|sorry|we offer|our bars|however|additionally|regarding|could you|would you|about our|in case of|we hope|we kindly|if you need|i have already|i am reaching|following our|being every|the reason for|during this|we count with|at the moment|i offer you)/.test(t)) return 'en';
+  if (/\b(el|la|los|las|del|que|por|para|con|su|habitación|estancia|gracias|disculpa|reserva|podría|informarle|nuestro|tenga|cualquier|además)\b/i.test(text) && !/\b(the|and|for|you|room|stay|thank|sorry|reservation)\b/i.test(text)) return 'es';
   return 'en';
 }
 
-async function loadSections() {
-  let raw;
-  try {
-    const res = await fetch('APP-EMMA.txt');
-    raw = await res.text();
-  } catch (e) {
-    document.getElementById('app').innerHTML = `
-      <div class="empty-state">
-        <strong>No se pudo cargar APP-EMMA.txt</strong><br>
-        Error: ${e.message}<br>
-        Asegúrate de abrir la app desde un servidor web o GitHub Pages, no directamente como archivo local.
-      </div>`;
-    return;
-  }
-
+function parseRawText(raw) {
   const lines = raw.replace(/\r\n/g, '\n').split('\n');
   const sections = [];
   let currentSection = null;
@@ -241,10 +229,66 @@ async function loadSections() {
     currentBlock.push(trimmed);
   }
   flushBlock();
-
-  // Descartar secciones vacías y la primera "APP"
   allSections = sections.filter(s => s.messages.length > 0 && s.title !== 'APP');
   render();
+}
+
+async function loadSections() {
+  let raw;
+  try {
+    const res = await fetch('APP-EMMA.txt');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    raw = await res.text();
+    parseRawText(raw);
+  } catch (e) {
+    showFilePicker();
+  }
+}
+
+function showFilePicker() {
+  const app = document.getElementById('app');
+  app.innerHTML = `
+    <div class="empty-state">
+      <strong>No se pudo cargar APP-EMMA.txt automáticamente</strong><br>
+      Esto pasa porque abriste el archivo directo desde tu computadora.<br>
+      Elige el archivo <code>APP-EMMA.txt</code> o sáltalo aquí:
+    </div>
+    <div class="file-picker" id="dropZone">
+      <input type="file" id="fileInput" accept=".txt,text/plain">
+      <label for="fileInput">📁 Seleccionar APP-EMMA.txt</label>
+      <p style="margin:10px 0 0;font-size:0.8rem;color:#374151;">También puedes arrastrar el archivo a esta caja.</p>
+    </div>
+    <div class="empty-state" style="padding-top:10px;">
+      O súbelo a GitHub Pages para que cargue solo:<br>
+      <code>https://memmamx.github.io/APP-EMMA/</code>
+    </div>
+  `;
+
+  const fileInput = document.getElementById('fileInput');
+  const dropZone = document.getElementById('dropZone');
+
+  fileInput.addEventListener('change', (e) => {
+    if (e.target.files.length) readFile(e.target.files[0]);
+  });
+
+  dropZone.addEventListener('dragover', (e) => {
+    e.preventDefault();
+    dropZone.classList.add('dragover');
+  });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+  dropZone.addEventListener('drop', (e) => {
+    e.preventDefault();
+    dropZone.classList.remove('dragover');
+    const file = e.dataTransfer.files[0];
+    if (file) readFile(file);
+  });
+}
+
+function readFile(file) {
+  const reader = new FileReader();
+  reader.onload = (e) => parseRawText(e.target.result);
+  reader.onerror = () => showToast('No se pudo leer el archivo');
+  reader.readAsText(file);
 }
 
 function getTitle(lang, type) {
@@ -282,8 +326,7 @@ function render() {
     return;
   }
 
-  // Controles de salto rápido
-  const jumpList = `<div class="jump-list">${allSections.map((s, i) =>
+  const jumpList = `<div class="jump-list"><button onclick="expandAll()">Abrir todo</button><button onclick="collapseAll()">Cerrar todo</button>${allSections.map((s, i) =>
     `<button onclick="scrollToSection(${i})">${escapeHtml(s.title)}</button>`
   ).join('')}</div>`;
 
@@ -306,7 +349,7 @@ function render() {
               <div class="message-text">${escapeHtml(personalize(msg.text, msg.lang))}</div>
               <div class="message-meta">
                 <span class="badge ${msg.lang}">${msg.lang}</span>
-                <span class="copy-hint">${search ? 'Toca para copiar' : 'Toca para copiar'}</span>
+                <span class="copy-hint">Toca para copiar</span>
               </div>
             </div>
           `).join('')}
@@ -314,6 +357,13 @@ function render() {
       </div>
     `;
   }).join('');
+}
+
+function expandAll() {
+  document.querySelectorAll('.section').forEach(el => el.classList.add('open'));
+}
+function collapseAll() {
+  document.querySelectorAll('.section').forEach(el => el.classList.remove('open'));
 }
 
 function scrollToSection(idx) {
